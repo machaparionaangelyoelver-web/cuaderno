@@ -1,7 +1,7 @@
-<!-- Banner animado -->
 <p align="center">
-  <img src="https://i.gifer.com/3jUU.gif" width="100%" alt="Banner animado Cuaderno Digital"/>
+  <img src="https://i.ibb.co/gR0FBNv/html-css-js-banner.png" width="100%" alt="Banner HTML5 CSS3 JS"/>
 </p>
+
 
 <!-- Texto animado estilo máquina de escribir -->
 <p align="center">
