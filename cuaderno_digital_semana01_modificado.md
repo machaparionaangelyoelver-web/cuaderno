@@ -1,3 +1,21 @@
+# <img src="data:image/jpeg;base64,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...
+" alt="Logo pequeño" width="28" height="28" style="vertical-align:middle; margin-right:8px;"> Informe de la primera semana
+
+<div align="center" style="margin-top:12px;">
+  <!-- Logos institucionales: mismo tamaño -->
+  <img src="https://transferenciatecnologica.uncp.edu.pe/images/logoweb.png" width="120" height="120" alt="Logo UNCP" style="margin:8px;">
+  <img src="https://i0.wp.com/sistemasuncp.edu.pe/wp-content/uploads/2023/04/Logo-fispeq.png?resize=215%2C216&ssl=1" width="120" height="120" alt="Logo FIS UNCP" style="margin:8px;">
+
+  <!-- Texto animado debajo de los logos -->
+  <br/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=2800&pause=600&center=true&vCenter=true&width=900&height=50&color=FFFFFF&background=0B0E19&lines=📘+Cuaderno+Digital+—+Semana+01" alt="Cuaderno Digital — Semana 01">
+  </a>
+</div>
+
+---
+
+
 # 📘 Cuaderno Digital — Semana 01
 
 <div align="center">
