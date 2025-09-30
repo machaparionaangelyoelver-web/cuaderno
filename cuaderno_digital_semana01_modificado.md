@@ -14,8 +14,8 @@
 </a>
 
 <br/>
-<img src="https://transferenciatecnologica.uncp.edu.pe/images/logoweb.png" width="140" alt="Logo UNCP">
-<img src="https://i0.wp.com/sistemasuncp.edu.pe/wp-content/uploads/2023/04/Logo-fispeq.png?resize=215%2C216&ssl=1" width="140" alt="Logo FIS UNCP">
+<img src="https://transferenciatecnologica.uncp.edu.pe/images/logoweb.png" width="120" alt="Logo UNCP">
+<img src="https://i0.wp.com/sistemasuncp.edu.pe/wp-content/uploads/2023/04/Logo-fispeq.png?resize=215%2C216&ssl=1" width="120" alt="Logo FIS UNCP">
 
 </div>
 
@@ -39,7 +39,7 @@
 | **HTML** | Estructura del contenido web. | Títulos, párrafos, formularios. | ![HTML](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnptBD6uQ8V1-X21FlmUDjvSlvwPhimTwhlQ&s) |
 | **CSS** | Estilos y diseño visual. | Grid, Flexbox, variables. | ![CSS](https://yeeply.com/wp-content/uploads/2024/07/images-11.png) |
 | **JavaScript** | Interactividad y lógica en el navegador. | Validar formularios, consumir APIs. | ![JS](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT51BMMUr2H27skg69TPo-ohN15vKM_fFeX0A&s) |
-| **HTTP/HTTPS** | Transporte de datos; HTTPS cifra y autentica. | `GET /api/productos` → `200 OK`. | ![HTTP](https://s3.us-east-2.amazonaws.com/mgpanel/499-http-y-https.jpg) |
+| **HTTP/HTTPS** | Transporte de datos; HTTPS cifra y autentica. | `GET /api/productos` → `200 OK`. | ![HTTP](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxCtAsfoCVzcUo90ZWIZaeImDgqRoF6M4T5g&s) |
 | **API REST** | Interfaz basada en recursos y métodos HTTP. | `POST /ventas`. | ![API REST](https://www.seobility.net/es/wiki/images/b/b3/API-Rest.png) |
 | **DNS** | Traduce dominios a IPs. | `midominio.com` → `203.0.113.10`. | ![DNS](https://cdn-icons-png.flaticon.com/512/2333/2333476.png) |
 | **Open Web Platform** | Estándares abiertos de la Web. | HTML5, CSS3, ES6+, Web APIs. | ![Open Web](https://img.freepik.com/vector-premium/icono-globo-efecto-purpura-degradado_197792-4858.jpg?semt=ais_hybrid&w=740&q=80) |
