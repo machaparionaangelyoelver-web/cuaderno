@@ -1,24 +1,14 @@
 <div align="center">
 
-<!-- Banner animado -->
+<!-- Banner (opcional) -->
 <img src="https://raw.githubusercontent.com/Aakarsh-B/trying-repos/master/Technology.gif" width="100%" alt="Banner Tecnologías Web">
 
-<!-- Animación de título -->
+<!-- Título animado con FONDO OSCURO propio -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F5F5F5&size=34&center=true&vCenter=true&width=850&lines=📘+Cuaderno+Digital+—+Semana+01;Fundamentos+de+la+Tecnología+Web" alt="Typing: Cuaderno Digital — Semana 01">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=34&duration=2800&pause=600&center=true&vCenter=true&width=900&height=60&color=FFFFFF&background=0B0E19&lines=📘+Cuaderno+Digital+—+Semana+01;Fundamentos+de+la+Tecnolog%C3%ADa+Web" alt="Cuaderno Digital — Semana 01">
 </a>
 
-<!-- Animación de nombre y laboratorio -->
+<!-- Nombre/Laboratorio animados con FONDO OSCURO propio -->
 <br/>
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?color=9BE1FF&size=20&center=true&vCenter=true&width=850&lines=👨‍🎓+Estudiante:+Macha+Pariona+Angel+Yoelver;💻+Laboratorio:+Git+Bash+%2B+Visual+Studio+Code" alt="Typing: Nombre y laboratorio">
-</a>
-
-<p align="center" style="max-width: 800px; line-height:1.6; color:#ccc;">
-Semana de introducción con enfoque en estándares Web, arquitectura cliente–servidor, herramientas de desarrollo y control de versiones con Git/GitHub.  
-Tema visual: <b>oscuro minimalista</b>.
-</p>
-
-<p>
-  <a href="#contenido" style="background:#f511c9;padding:10px 22px;border-radius:24px;color:#fff;text-decoration:none;font-weight:700">Ir al contenido</a>
-  <a href="#recursos" style="background:#ffffff1a;padding:10px 22px;border-radius:24px;c
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=600&center=true&vCenter=true&width=900&height=40&color=9BE1FF&background=0B0E19&lines=👨‍🎓+Estudiante:+Macha+Pariona+Angel+Yoelver;💻+Laboratorio:+Git+Bash+%2B+Visual
