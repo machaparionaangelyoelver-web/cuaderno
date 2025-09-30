@@ -1,12 +1,12 @@
 <!-- Banner animado estilo tecnología -->
 <p align="center">
-  <img src="https://i.ibb.co/ZYpYf9c/tecnologia-web-banner.gif" width="100%" alt="Banner Tecnologías Web"/>
+  <img src="https://raw.githubusercontent.com/Aakarsh-B/trying-repos/master/Technology.gif" width="100%" alt="Banner Tecnologías Web"/>
 </p>
 
 <!-- Texto animado estilo máquina de escribir -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%23F700FF&size=25&center=true&vCenter=true&width=750&lines=📘+Cuaderno+Digital+-+Semana+01;👨‍🎓+Estudiante:+Macha+Pariona+Angel+Yoelver;🌐+Tema:+Fundamentos+de+la+Tecnología+Web;💻+Laboratorio:+Git+Bash+%2B+Visual+Studio+Code" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.herokuapp.com?color=%23F700FF&size=25&center=true&vCenter=true&width=900&lines=📘+Cuaderno+Digital+-+Semana+01;👨‍🎓+Estudiante:+Macha+Pariona+Angel+Yoelver;🌐+Tema:+Fundamentos+de+la+Tecnología+Web;💻+Laboratorio:+Git+Bash+%2B+Visual+Studio+Code" alt="Typing SVG"/>
   </a>
 </p>
 
@@ -47,4 +47,3 @@
 ## ✨ Reflexión Personal
 > En esta primera semana aprendí los **fundamentos de la tecnología web**, reconociendo la importancia de los **estándares internacionales** y el rol del **frontend y backend** en el desarrollo de aplicaciones.  
 > Además, a través del **laboratorio con Git Bash y Visual Studio Code**, reforcé la práctica de control de versiones y herramientas modernas para un desarrollo eficiente. 🚀
-
