@@ -1,7 +1,7 @@
+<!-- Banner animado estilo tecnología -->
 <p align="center">
-  <img src="https://i.ibb.co/gR0FBNv/html-css-js-banner.png" width="100%" alt="Banner HTML5 CSS3 JS"/>
+  <img src="https://i.ibb.co/ZYpYf9c/tecnologia-web-banner.gif" width="100%" alt="Banner Tecnologías Web"/>
 </p>
-
 
 <!-- Texto animado estilo máquina de escribir -->
 <p align="center">
@@ -26,7 +26,6 @@
 
 ---
 
-<!-- Presentación -->
 ## 📖 Semana 01: Fundamentos de la Tecnología Web
 
 - 🌐 **Conceptos Clave**  
@@ -45,7 +44,7 @@
 
 ---
 
-<!-- Reflexión -->
 ## ✨ Reflexión Personal
 > En esta primera semana aprendí los **fundamentos de la tecnología web**, reconociendo la importancia de los **estándares internacionales** y el rol del **frontend y backend** en el desarrollo de aplicaciones.  
 > Además, a través del **laboratorio con Git Bash y Visual Studio Code**, reforcé la práctica de control de versiones y herramientas modernas para un desarrollo eficiente. 🚀
+
