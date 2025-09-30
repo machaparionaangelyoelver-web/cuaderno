@@ -14,9 +14,9 @@
 </a>
 
 <br/>
-<img src="https://transferenciatecnologica.uncp.edu.pe/images/logoweb.png" width="120" alt="Logo UNCP">
-<img src="https://i0.wp.com/sistemasuncp.edu.pe/wp-content/uploads/2023/04/Logo-fispeq.png?resize=215%2C216&ssl=1" width="120" alt="Logo FIS UNCP">
-
+<div align="center">
+  <img src="https://transferenciatecnologica.uncp.edu.pe/images/logoweb.png" width="120" height="120" alt="Logo UNCP" style="margin:10px;">
+  <img src="https://i0.wp.com/sistemasuncp.edu.pe/wp-content/uploads/2023/04/Logo-fispeq.png?resize=215%2C216&ssl=1" width="120" height="120" alt="Logo FIS UNCP" style="margin:10px;">
 </div>
 
 ---
