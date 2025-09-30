@@ -1,4 +1,3 @@
-<!-- ===== Encabezado con logos laterales + título animado ===== -->
 <table align="center">
   <tr>
     <!-- Logo izquierda -->
@@ -23,6 +22,7 @@
     </td>
   </tr>
 </table>
+
 
 <!-- Banner y animaciones inferiores -->
 <div align="center">
