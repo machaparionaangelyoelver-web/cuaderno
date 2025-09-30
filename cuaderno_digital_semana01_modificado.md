@@ -13,16 +13,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://i0.wp.com/sistemasuncp.edu.pe/wp-content/uploads/2023/04/Logo-fispeq.png?resize=215%2C216&ssl=1" alt="Logo FIS UNCP" width="96" height="96">
 </p>
-
-<!-- (Opcional) Animación original debajo -->
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img
-      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=600&center=true&vCenter=true&width=900&height=40&color=9BE1FF&background=0B0E19&lines=📘+Cuaderno+Digital+—+Semana+01;Fundamentos+de+la+Tecnolog%C3%ADa+Web"
-      alt="Cuaderno Digital — Semana 01 · Fundamentos de la Tecnología Web">
-  </a>
 </div>
-
 
 
 <!-- Banner y animaciones inferiores -->
