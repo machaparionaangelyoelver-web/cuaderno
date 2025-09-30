@@ -9,7 +9,7 @@
 
 <!-- Logos centrados en la misma fila (simple) -->
 <p align="center">
-  <img src="https://transferenciatecnologica.uncp.edu.pe/images/logoweb.png" alt="Logo UNCP" width="96" height="96">
+  <img src="https://pbs.twimg.com/profile_images/1953572719263350784/ZNDmUd_n_400x400.jpg" alt="Logo UNCP" width="96" height="96">
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://i0.wp.com/sistemasuncp.edu.pe/wp-content/uploads/2023/04/Logo-fispeq.png?resize=215%2C216&ssl=1" alt="Logo FIS UNCP" width="96" height="96">
 </p>
