@@ -1,21 +1,46 @@
-<div align="center" style="display:flex; align-items:center; justify-content:center; gap:16px; max-width:1000px; margin:auto;">
+<!-- ===== Encabezado con logos laterales + título animado ===== -->
+<table align="center">
+  <tr>
+    <!-- Logo izquierda -->
+    <td align="center" valign="middle">
+      <img src="https://transferenciatecnologica.uncp.edu.pe/images/logoweb.png"
+           alt="Logo UNCP" width="96" height="96">
+    </td>
 
-  <!-- Logo izquierda -->
-  <img src="https://transferenciatecnologica.uncp.edu.pe/images/logoweb.png"
-       alt="Logo UNCP" width="96" height="96" style="margin:6px;">
+    <!-- Título animado (centro) -->
+    <td align="center" valign="middle">
+      <a href="https://git.io/typing-svg">
+        <img
+          src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=34&duration=2500&pause=600&center=true&vCenter=true&width=900&height=70&color=FFFFFF&background=0B0E19&lines=📘+Informe+de+la+primera+semana"
+          alt="Informe de la primera semana">
+      </a>
+    </td>
 
-  <!-- Título animado -->
+    <!-- Logo derecha -->
+    <td align="center" valign="middle">
+      <img src="https://i0.wp.com/sistemasuncp.edu.pe/wp-content/uploads/2023/04/Logo-fispeq.png?resize=215%2C216&ssl=1"
+           alt="Logo FIS UNCP" width="96" height="96">
+    </td>
+  </tr>
+</table>
+
+<!-- Banner y animaciones inferiores (restauradas) -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Aakarsh-B/trying-repos/master/Technology.gif" width="100%" alt="Banner Tecnologías Web">
+
   <a href="https://git.io/typing-svg">
     <img
-      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=34&duration=2500&pause=600&center=true&vCenter=true&width=640&height=60&color=FFFFFF&background=0B0E19&lines=📘+Informe+de+la+primera+semana"
-      alt="Informe de la primera semana">
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=600&center=true&vCenter=true&width=900&height=40&color=9BE1FF&background=0B0E19&lines=📘+Cuaderno+Digital+—+Semana+01;Fundamentos+de+la+Tecnolog%C3%ADa+Web"
+      alt="Cuaderno Digital — Semana 01 · Fundamentos de la Tecnología Web">
   </a>
 
-  <!-- Logo derecha -->
-  <img src="https://i0.wp.com/sistemasuncp.edu.pe/wp-content/uploads/2023/04/Logo-fispeq.png?resize=215%2C216&ssl=1"
-       alt="Logo FIS UNCP" width="96" height="96" style="margin:6px;">
-
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=600&center=true&vCenter=true&width=900&height=36&color=9BE1FF&background=0B0E19&lines=👨‍🎓+Estudiante:+Angel+Yoelver+Macha+Pariona;🎓+Semestre:+Noveno+Semestre;💻+Laboratorio:+Git+Bash+%2B+Visual+Studio+Code"
+      alt="Nombre y semestre">
+  </a>
 </div>
+<!-- ===== Fin del encabezado ===== -->
 
 ---
 
