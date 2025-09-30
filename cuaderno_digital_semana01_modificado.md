@@ -16,7 +16,7 @@
 
 <br/>
 <div align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ7gu7DK1zi46WOiqZatql8IfuTDxZuoiKOw&s" width="120" height="120" alt="Logo UNCP" style="margin:10px;">
+  <img src="https://pbs.twimg.com/profile_images/1953572719263350784/ZNDmUd_n_400x400.jpg" width="120" height="120" alt="Logo UNCP" style="margin:10px;">
   <img src="https://i0.wp.com/sistemasuncp.edu.pe/wp-content/uploads/2023/04/Logo-fispeq.png?resize=215%2C216&ssl=1" width="120" height="120" alt="Logo FIS UNCP" style="margin:10px;">
 </div>
 
