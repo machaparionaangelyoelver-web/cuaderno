@@ -1,12 +1,12 @@
 <!-- Banner animado -->
 <p align="center">
-  <img src="https://i.gifer.com/3jUU.gif" width="100%" alt="Banner animado de bienvenida"/>
+  <img src="https://i.gifer.com/3jUU.gif" width="100%" alt="Banner animado Cuaderno Digital"/>
 </p>
 
 <!-- Texto animado estilo máquina de escribir -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%23F700FF&size=25&center=true&vCenter=true&width=600&lines=Bienvenido+a+mi+proyecto+🚀;Tecnologías+Web+%7C+Semana+01;Moderno%2C+Interactivo+y+Educativo" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.herokuapp.com?color=%23F700FF&size=25&center=true&vCenter=true&width=750&lines=📘+Cuaderno+Digital+-+Semana+01;👨‍🎓+Estudiante:+Macha+Pariona+Angel+Yoelver;🌐+Tema:+Fundamentos+de+la+Tecnología+Web;💻+Laboratorio:+Git+Bash+%2B+Visual+Studio+Code" alt="Typing SVG"/>
   </a>
 </p>
 
@@ -26,9 +26,26 @@
 
 ---
 
-<!-- Mensaje inspirador -->
-<p align="center">
-  🚀 Aprendiendo y creando con <b>Tecnologías Web</b> <br/>
-  ✨ Semana 01 · Git Bash + Visual Studio Code ✨
-</p>
+<!-- Presentación -->
+## 📖 Semana 01: Fundamentos de la Tecnología Web
 
+- 🌐 **Conceptos Clave**  
+  - Estrategia de aprendizaje con **portafolio en GitHub**  
+  - **Tecnologías de desarrollo de software**: Web y nativo  
+  - **Estándares internacionales** (HTML, CSS, JavaScript, HTTP/HTTPS, XML)  
+  - **Open Web Platform**: integración, transparencia y libertad de uso  
+  - **DNS** y funcionamiento de la Web  
+  - Diferencias entre **Frontend y Backend**
+
+- 🧪 **Laboratorio 01: Git Bash + Visual Studio Code**  
+  - Uso de **VSCode**: interfaz, paleta de comandos, atajos  
+  - **Git básico**: init, add, commit, push, ramas y merge  
+  - **Emmet** para generar código rápido  
+  - Creación de fragmentos de código en VSC  
+
+---
+
+<!-- Reflexión -->
+## ✨ Reflexión Personal
+> En esta primera semana aprendí los **fundamentos de la tecnología web**, reconociendo la importancia de los **estándares internacionales** y el rol del **frontend y backend** en el desarrollo de aplicaciones.  
+> Además, a través del **laboratorio con Git Bash y Visual Studio Code**, reforcé la práctica de control de versiones y herramientas modernas para un desarrollo eficiente. 🚀
