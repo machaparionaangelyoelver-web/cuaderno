@@ -11,7 +11,7 @@
     <td align="center" valign="middle">
       <a href="https://git.io/typing-svg">
         <img
-          src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=34&duration=2500&pause=600&center=true&vCenter=true&width=900&height=70&color=FFFFFF&background=0B0E19&lines=📘+Informe+de+la+primera+semana"
+          src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=34&duration=2500&pause=600&center=true&vCenter=true&width=800&height=70&color=FFFFFF&background=0B0E19&lines=📘+Informe+de+la+primera+semana"
           alt="Informe de la primera semana">
       </a>
     </td>
@@ -24,9 +24,10 @@
   </tr>
 </table>
 
-<!-- Banner y animaciones inferiores (restauradas) -->
+<!-- Banner y animaciones inferiores -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Aakarsh-B/trying-repos/master/Technology.gif" width="100%" alt="Banner Tecnologías Web">
+  <img src="https://raw.githubusercontent.com/Aakarsh-B/trying-repos/master/Technology.gif"
+       width="100%" alt="Banner Tecnologías Web">
 
   <a href="https://git.io/typing-svg">
     <img
@@ -40,7 +41,7 @@
       alt="Nombre y semestre">
   </a>
 </div>
-<!-- ===== Fin del encabezado ===== -->
+<!-- ===== Fin encabezado ===== -->
 
 ---
 
