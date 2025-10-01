@@ -127,7 +127,7 @@ CSS avanzado incluye herramientas modernas para construir páginas adaptables y 
 - `@keyframes` permite animaciones personalizadas.  
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/af17262b054e9add1ce560c39e2002086862e2b6/semana02_imagenes/animación-transición.jpg" width="500" height="300" alt="Animación CSS"/>
+  <img src="https://github.com/machaparionaangelyoelver-web/fotosdecuaderno/blob/af17262b054e9add1ce560c39e2002086862e2b6/semana02_imagenes/animacion-transciicion.jpg" width="500" height="300" alt="Animación CSS"/>
 </div>
 
 ### 📋 Media Queries  
