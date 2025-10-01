@@ -85,13 +85,23 @@ Esto permite crear interfaces altamente personalizadas sin escribir CSS adiciona
 | Botones | <img src="https://github.com/machaparionaangelyoelver-web/fotosdecuaderno/blob/f0cdbb12c97509f0e36e35dbcf156ae2eec47634/semana03_imagenes/tw_buttons.png" width="400" alt="Botones Tailwind"> |
 
 
-### Extras del repositorio
+### 📦 Extras del repositorio
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/main/semana03_imagenes/tarjeta%20tw_card.png" width="420" alt="Card Tailwind" style="margin:6px;">
-  <img src="https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/main/semana03_imagenes/dos%20colores.png" width="420" alt="Dos colores Tailwind" style="margin:6px;">
-  <img src="https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/main/semana03_imagenes/viento%20de%20cola.png" width="420" alt="Extra Tailwind" style="margin:6px;">
-</p>
+| Comentario | Imagen |
+|------------|--------|
+| Ejemplo de **card en Tailwind**, mostrando cómo construir tarjetas personalizadas con clases utilitarias. | <img src="https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/main/semana03_imagenes/tarjeta%20tw_card.png" width="320" alt="Card Tailwind"> |
+| Demostración de uso de **paletas de colores** en Tailwind (`bg-`, `text-`), logrando contrastes modernos y legibles. | <img src="https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/main/semana03_imagenes/dos%20colores.png" width="320" alt="Dos colores Tailwind"> |
+| Captura adicional que evidencia la **flexibilidad de Tailwind** para personalizar interfaces sin escribir CSS manual. | <img src="https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/main/semana03_imagenes/viento%20de%20cola.png" width="320" alt="Extra Tailwind"> |
+
+---
+### 📦 Extras del repositorio
+
+| Comentario | Imagen |
+|------------|--------|
+| Ejemplo de **card en Tailwind**, mostrando cómo construir tarjetas personalizadas con clases utilitarias. | <img src="https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/main/semana03_imagenes/tarjeta%20tw_card.png" width="320" alt="Card Tailwind"> |
+| Demostración de uso de **paletas de colores** en Tailwind (`bg-`, `text-`), logrando contrastes modernos y legibles. | <img src="https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/main/semana03_imagenes/dos%20colores.png" width="320" alt="Dos colores Tailwind"> |
+| Captura adicional que evidencia la **flexibilidad de Tailwind** para personalizar interfaces sin escribir CSS manual. | <img src="https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/main/semana03_imagenes/viento%20de%20cola.png" width="320" alt="Extra Tailwind"> |
+
 
 ---
 
