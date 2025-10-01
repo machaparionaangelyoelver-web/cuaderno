@@ -50,7 +50,7 @@ Bootstrap nació en Twitter (2011) con la idea de **unificar estilos** en proyec
 
 | Componente | Vista |
 |---|---|
-| Botones | <img src="https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/main/semana03_imagenes/botones_bs.png" width="400" alt="Botones Bootstrap"> |
+| Botones | <img src="https://github.com/machaparionaangelyoelver-web/fotosdecuaderno/blob/f0cdbb12c97509f0e36e35dbcf156ae2eec47634/semana03_imagenes/bs_buttons.png" width="400" alt="Botones Bootstrap"> |
 | Cards | <img src="https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/main/semana03_imagenes/bs_cards.png" width="400" alt="Cards Bootstrap"> |
 | Navbar | <img src="https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/main/semana03_imagenes/bs_navbar.png" width="400" alt="Navbar Bootstrap"> |
 | Formularios | <img src="https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/main/semana03_imagenes/bs_forms.png" width="400" alt="Formularios Bootstrap"> |
@@ -77,7 +77,7 @@ Esto permite crear interfaces altamente personalizadas sin escribir CSS adiciona
 
 | Concepto | Vista |
 |---|---|
-| Tipografía | <img src="https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/main/semana03_imagenes/tw_tipograf%C3%ADa.png" width="400" alt="Tipografía Tailwind"> |
+| Tipografía | <img src="https://github.com/machaparionaangelyoelver-web/fotosdecuaderno/blob/f0cdbb12c97509f0e36e35dbcf156ae2eec47634/semana03_imagenes/tw_typography.png" width="400" alt="Tipografía Tailwind"> |
 | Flexbox | <img src="https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/main/semana03_imagenes/tw_flex.png" width="400" alt="Flex Tailwind"> |
 | Grid | <img src="https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/main/semana03_imagenes/tw_grid.gif" width="400" alt="Grid Tailwind"> |
 | Responsive | <img src="https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/main/semana03_imagenes/tw_responsive.png" width="400" alt="Responsive Tailwind"> |
