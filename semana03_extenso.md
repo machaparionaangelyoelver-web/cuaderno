@@ -84,12 +84,13 @@ Esto permite crear interfaces altamente personalizadas sin escribir CSS adiciona
 | Dark mode | <img src="https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/main/semana03_imagenes/tw_darkmode.png" width="400" alt="Dark Mode"> |
 | Botones | <img src="https://github.com/machaparionaangelyoelver-web/fotosdecuaderno/blob/f0cdbb12c97509f0e36e35dbcf156ae2eec47634/semana03_imagenes/tw_buttons.png" width="400" alt="Botones Tailwind"> |
 
+
 ### Extras del repositorio
 
 <p align="center">
-  <img src="https://github.com/machaparionaangelyoelver-web/fotosdecuaderno/blob/f0cdbb12c97509f0e36e35dbcf156ae2eec47634/semana03_imagenes/tw_card.png" width="420" alt="Card Tailwind" style="margin:6px;">
-  <img src="https://github.com/machaparionaangelyoelver-web/fotosdecuaderno/blob/f0cdbb12c97509f0e36e35dbcf156ae2eec47634/semana03_imagenes/tw_colors.png" width="420" alt="Dos colores Tailwind" style="margin:6px;">
-  <img src="https://github.com/machaparionaangelyoelver-web/fotosdecuaderno/blob/f0cdbb12c97509f0e36e35dbcf156ae2eec47634/semana03_imagenes/tailwind.png" width="420" alt="Extra Tailwind" style="margin:6px;">
+  <img src="https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/main/semana03_imagenes/tarjeta%20tw_card.png" width="420" alt="Card Tailwind" style="margin:6px;">
+  <img src="https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/main/semana03_imagenes/dos%20colores.png" width="420" alt="Dos colores Tailwind" style="margin:6px;">
+  <img src="https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/main/semana03_imagenes/viento%20de%20cola.png" width="420" alt="Extra Tailwind" style="margin:6px;">
 </p>
 
 ---
@@ -119,7 +120,7 @@ El proyecto grupal consistió en un sitio dividido en 3 módulos + un **index in
 
 | Página | Captura |
 |---|---|
-| Index | <img src="https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/main/semana03_imagenes/captura_de_%C3%ADndice.png" width="520" alt="Index"> |
+| Index | <img src="https://github.com/machaparionaangelyoelver-web/fotosdecuaderno/blob/f0cdbb12c97509f0e36e35dbcf156ae2eec47634/semana03_imagenes/index_capture.png" width="520" alt="Index"> |
 | Page01 | <img src="https://github.com/machaparionaangelyoelver-web/fotosdecuaderno/blob/f0cdbb12c97509f0e36e35dbcf156ae2eec47634/semana03_imagenes/page01_capture.png" width="520" alt="Page01"> |
 | Page02 | <img src="https://github.com/machaparionaangelyoelver-web/fotosdecuaderno/blob/f0cdbb12c97509f0e36e35dbcf156ae2eec47634/semana03_imagenes/page02_capture.png" width="520" alt="Page02"> |
 | Page03 | <img src="https://github.com/machaparionaangelyoelver-web/fotosdecuaderno/blob/f0cdbb12c97509f0e36e35dbcf156ae2eec47634/semana03_imagenes/page03_capture.png" width="520" alt="Page03"> |
