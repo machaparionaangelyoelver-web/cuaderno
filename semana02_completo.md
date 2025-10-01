@@ -1,4 +1,4 @@
-# 📘 Cuaderno Digital — Semana 02  
+
 **Tema:** HTML básico y avanzado · CSS básico y avanzado  
 
 <!-- ===== Cabecera con título animado ===== -->
