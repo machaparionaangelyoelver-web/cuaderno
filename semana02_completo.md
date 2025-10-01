@@ -1,6 +1,4 @@
-
-**Tema:** HTML básico y avanzado · CSS básico y avanzado  
-
+# 📘 Cuaderno Digital — Semana 02  
 <!-- ===== Cabecera con título animado ===== -->
 <div align="center">
   <a href="https://git.io/typing-svg">
