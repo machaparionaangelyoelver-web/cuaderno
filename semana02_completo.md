@@ -91,8 +91,8 @@ Nos permite aplicar estilos, colores, fuentes, márgenes y distribuciones.
 
 ### 📷 Ejemplo visual  
 <div align="center">
-  <img src="https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/af17262b054e9add1ce560c39e2002086862e2b6/semana02_imagenes/logocss3.jpg" width="300" height="200" alt="CSS3 logo"/>
-  <img src="https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/af17262b054e9add1ce560c39e2002086862e2b6/semana02_imagenes/diagramaboxmodel.png" width="300" height="200" alt="Box Model"/>
+  <img src="https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/af17262b054e9add1ce560c39e2002086862e2b6/semana02_imagenes/logocss3.jpg" width="400" height="300" alt="CSS3 logo"/>
+  <img src="https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/af17262b054e9add1ce560c39e2002086862e2b6/semana02_imagenes/diagramaboxmodel.png" width="400" height="300" alt="Box Model"/>
 </div>
 
 ---
