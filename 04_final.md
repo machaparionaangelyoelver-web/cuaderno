@@ -40,13 +40,13 @@
   <div align="left" style="font-size:14px; color:#0f172a;">
     <b>Comentario:</b> Las variables permiten guardar información. <code>let</code> y <code>const</code> son más seguras que <code>var</code>.
   </div>
-  <img alt="Variables" width="120" src="https://github.com/machaparionaangelyoelver-web/fotosdecuaderno/blob/main/semana04_imagenes/variables.png"
+  <img alt="Variables" width="3600" src="https://github.com/machaparionaangelyoelver-web/fotosdecuaderno/blob/main/semana04_imagenes/variables.png"
 </div>
 
 ### 🔹 Tipos de Datos
 <div align="center" style="max-width:760px; margin:12px auto; padding:16px; border:1px solid #e2e8f0; border-radius:14px; background:#f8fafc;">
   <div align="left"><b>Comentario:</b> Tipos primitivos (string, number, boolean, null, undefined) y compuestos (objetos, arrays).</div>
-  <img alt="Tipos" width="520" src="https://github.com/machaparionaangelyoelver-web/fotosdecuaderno/blob/main/semana04_imagenes/tipos-datos.png" />
+  <img alt="Tipos" width="360" src="https://github.com/machaparionaangelyoelver-web/fotosdecuaderno/blob/main/semana04_imagenes/tipos-datos.png" />
 </div>
 
 ### 🔹 Condicionales
