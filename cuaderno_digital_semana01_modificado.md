@@ -72,7 +72,8 @@
 | Pruebas | Lighthouse, Jest | Unit tests, integración, Postman |
 | Despliegue | Vercel, Netlify | VPS, Docker, Kubernetes |
 
-![Frontend vs Backend](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAytBmcFaaLKKgYpELKGQ6tE8zPbWohoBjTA&s)
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAytBmcFaaLKKgYpELKGQ6tE8zPbWohoBjTA&s" alt="Frontend vs Backend" width="400">
+
 
 ---
 
@@ -86,7 +87,7 @@
 | Ver estado | `git status` |
 | Agregar cambios | `git add .` |
 | Commit | `git commit -m "mensaje"` |
-| Conectar remoto | `git remote add origin <URL>` | <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="200px" alt="Git">
+| Conectar remoto | `git remote add origin <URL>` |
 | Subir cambios | `git push -u origin main` |
 | Crear rama | `git checkout -b feature/ui` |
 | Mezclar | `git merge feature/ui` |
