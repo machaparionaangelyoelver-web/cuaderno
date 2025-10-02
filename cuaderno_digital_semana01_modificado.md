@@ -86,7 +86,7 @@
 | Ver estado | `git status` |
 | Agregar cambios | `git add .` |
 | Commit | `git commit -m "mensaje"` |
-| Conectar remoto | `git remote add origin <URL>` |
+| Conectar remoto | `git remote add origin <URL>` | <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="200px" alt="Git">
 | Subir cambios | `git push -u origin main` |
 | Crear rama | `git checkout -b feature/ui` |
 | Mezclar | `git merge feature/ui` |
