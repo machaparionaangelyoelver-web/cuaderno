@@ -40,7 +40,7 @@
   <div align="left" style="font-size:14px; color:#0f172a;">
     <b>Comentario:</b> Las variables permiten guardar información. <code>let</code> y <code>const</code> son más seguras que <code>var</code>.
   </div>
-  <img alt="Variables" width="520" src="https://github.com/machaparionaangelyoelver-web/fotosdecuaderno/blob/main/semana04_imagenes/variables.png" />
+  <img alt="Variables" width="520" src="https://github.com/machaparionaangelyoelver-web/fotosdecuaderno/blob/main/semana04_imagenes/variables.png" /> height="96" alt="Variables" style="margin:10px;">
 </div>
 
 ### 🔹 Tipos de Datos
