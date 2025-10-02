@@ -40,7 +40,7 @@
   <div align="left" style="font-size:14px; color:#0f172a;">
     <b>Comentario:</b> Las variables permiten guardar información. <code>let</code> y <code>const</code> son más seguras que <code>var</code>.
   </div>
-  <img alt="Variables" width="3600" src="https://github.com/machaparionaangelyoelver-web/fotosdecuaderno/blob/main/semana04_imagenes/variables.png"
+  <img alt="Variables" width="360" src="https://github.com/machaparionaangelyoelver-web/fotosdecuaderno/blob/main/semana04_imagenes/variables.png"
 </div>
 
 ### 🔹 Tipos de Datos
@@ -52,19 +52,19 @@
 ### 🔹 Condicionales
 <div align="center" style="max-width:760px; margin:12px auto; padding:16px; border:1px solid #e2e8f0; border-radius:14px; background:#f8fafc;">
   <div align="left"><b>Comentario:</b> Sirven para tomar decisiones en el flujo del programa.</div>
-  <img alt="Condicionales" width="520" src="https://github.com/machaparionaangelyoelver-web/fotosdecuaderno/blob/main/semana04_imagenes/condicionales.png" />
+  <img alt="Condicionales" width="360" src="https://github.com/machaparionaangelyoelver-web/fotosdecuaderno/blob/main/semana04_imagenes/condicionales.png" />
 </div>
 
 ### 🔹 Bucles
 <div align="center" style="max-width:760px; margin:12px auto; padding:16px; border:1px solid #e2e8f0; border-radius:14px; background:#f8fafc;">
   <div align="left"><b>Comentario:</b> Los bucles permiten repetir instrucciones. <code>for</code>, <code>while</code>, <code>forEach</code> son los más usados.</div>
-  <img alt="Bucles" width="520" src="https://github.com/machaparionaangelyoelver-web/fotosdecuaderno/blob/main/semana04_imagenes/bucle.png" />
+  <img alt="Bucles" width="360" src="https://github.com/machaparionaangelyoelver-web/fotosdecuaderno/blob/main/semana04_imagenes/bucle.png" />
 </div>
 
 ### 🔹 Funciones
 <div align="center" style="max-width:760px; margin:12px auto; padding:16px; border:1px solid #e2e8f0; border-radius:14px; background:#f8fafc;">
   <div align="left"><b>Comentario:</b> Reúnen instrucciones reutilizables. Pueden ser declaradas o funciones flecha.</div>
-  <img alt="Funciones" width="520" src="https://github.com/machaparionaangelyoelver-web/fotosdecuaderno/blob/main/semana04_imagenes/funciones.png" />
+  <img alt="Funciones" width="360" src="https://github.com/machaparionaangelyoelver-web/fotosdecuaderno/blob/main/semana04_imagenes/funciones.png" />
 </div>
 
 ---
@@ -74,37 +74,37 @@
 ### 🔹 DOM
 <div align="center" style="max-width:760px; margin:12px auto; padding:16px; border:1px solid #bae6fd; border-radius:14px; background:#ecfeff;">
   <div align="left"><b>Comentario:</b> El DOM permite modificar el contenido de la página en tiempo real.</div>
-  <img alt="DOM" width="520" src="https://github.com/machaparionaangelyoelver-web/fotosdecuaderno/blob/main/semana04_imagenes/dom.png" />
+  <img alt="DOM" width="360" src="https://github.com/machaparionaangelyoelver-web/fotosdecuaderno/blob/main/semana04_imagenes/dom.png" />
 </div>
 
 ### 🔹 Eventos
 <div align="center" style="max-width:760px; margin:12px auto; padding:16px; border:1px solid #bae6fd; border-radius:14px; background:#ecfeff;">
   <div align="left"><b>Comentario:</b> Los eventos son acciones de usuario como clics o movimientos del mouse.</div>
-  <img alt="Eventos" width="520" src="https://github.com/machaparionaangelyoelver-web/fotosdecuaderno/blob/main/semana04_imagenes/eventos.png" />
+  <img alt="Eventos" width="360" src="https://github.com/machaparionaangelyoelver-web/fotosdecuaderno/blob/main/semana04_imagenes/eventos.png" />
 </div>
 
 ### 🔹 Asincronía
 <div align="center" style="max-width:760px; margin:12px auto; padding:16px; border:1px solid #bae6fd; border-radius:14px; background:#ecfeff;">
   <div align="left"><b>Comentario:</b> La asincronía permite que JS no se detenga y ejecute tareas en paralelo.</div>
-  <img alt="Asincronía" width="520" src="https://github.com/machaparionaangelyoelver-web/fotosdecuaderno/blob/main/semana04_imagenes/asincronia.png" />
+  <img alt="Asincronía" width="360" src="https://github.com/machaparionaangelyoelver-web/fotosdecuaderno/blob/main/semana04_imagenes/asincronia.png" />
 </div>
 
 ### 🔹 Fetch API
 <div align="center" style="max-width:760px; margin:12px auto; padding:16px; border:1px solid #bae6fd; border-radius:14px; background:#ecfeff;">
   <div align="left"><b>Comentario:</b> Con <code>fetch</code> podemos traer datos de un servidor externo.</div>
-  <img alt="Fetch API" width="520" src="https://github.com/machaparionaangelyoelver-web/fotosdecuaderno/blob/main/semana04_imagenes/fetch-api.png" />
+  <img alt="Fetch API" width="360" src="https://github.com/machaparionaangelyoelver-web/fotosdecuaderno/blob/main/semana04_imagenes/fetch-api.png" />
 </div>
 
 ### 🔹 Arrays y Métodos
 <div align="center" style="max-width:760px; margin:12px auto; padding:16px; border:1px solid #bae6fd; border-radius:14px; background:#ecfeff;">
   <div align="left"><b>Comentario:</b> Métodos como <code>map</code>, <code>filter</code> y <code>reduce</code> facilitan el trabajo con listas.</div>
-  <img alt="Arrays" width="520" src="https://github.com/machaparionaangelyoelver-web/fotosdecuaderno/blob/main/semana04_imagenes/arrays-metodos.png" />
+  <img alt="Arrays" width="360" src="https://github.com/machaparionaangelyoelver-web/fotosdecuaderno/blob/main/semana04_imagenes/arrays-metodos.png" />
 </div>
 
 ### 🔹 Clases y Herencia
 <div align="center" style="max-width:760px; margin:12px auto; padding:16px; border:1px solid #bae6fd; border-radius:14px; background:#ecfeff;">
   <div align="left"><b>Comentario:</b> Las clases permiten trabajar con objetos de forma organizada.</div>
-  <img alt="Clases" width="520" src="https://github.com/machaparionaangelyoelver-web/fotosdecuaderno/blob/main/semana04_imagenes/clases.png" />
+  <img alt="Clases" width="360" src="https://github.com/machaparionaangelyoelver-web/fotosdecuaderno/blob/main/semana04_imagenes/clases.png" />
 </div>
 
 ---
@@ -114,32 +114,32 @@
 ### Git y GitHub
 <div align="center" style="max-width:760px; margin:12px auto; padding:16px; border:1px solid #e2e8f0; border-radius:14px; background:#f8fafc;">
   <div align="left"><b>Comentario:</b> Se usaron ramas por cada integrante y luego se hizo merge al final.</div>
-  <img alt="Git branches" width="520" src="https://github.com/machaparionaangelyoelver-web/fotosdecuaderno/blob/main/semana04_imagenes/git-branches.png" />
+  <img alt="Git branches" width="360" src="https://github.com/machaparionaangelyoelver-web/fotosdecuaderno/blob/main/semana04_imagenes/git-branches.png" />
 </div>
 
 ### Page01 — Lista de mensajes
 <div align="center" style="max-width:760px; margin:12px auto; padding:16px; border:1px solid #e2e8f0; border-radius:14px; background:#f8fafc;">
   <div align="left"><b>Comentario:</b> Página con grid y lista de mensajes responsiva.</div>
-  <img alt="Page01" width="520" src="https://github.com/machaparionaangelyoelver-web/fotosdecuaderno/blob/main/semana04_imagenes/page01-mensajes.png" />
+  <img alt="Page01" width="360" src="https://github.com/machaparionaangelyoelver-web/fotosdecuaderno/blob/main/semana04_imagenes/page01-mensajes.png" />
 </div>
 
 ### Page02 — Playas y Ciudades
 <div align="center" style="max-width:760px; margin:12px auto; padding:16px; border:1px solid #e2e8f0; border-radius:14px; background:#f8fafc;">
   <div align="left"><b>Comentario:</b> Cards con flexbox y hover.</div>
-  <img alt="Playas" width="520" src="https://github.com/machaparionaangelyoelver-web/fotosdecuaderno/blob/main/semana04_imagenes/page02-playas.png" />
-  <img alt="Ciudades" width="520" src="https://github.com/machaparionaangelyoelver-web/fotosdecuaderno/blob/main/semana04_imagenes/page02-ciudades.png" />
+  <img alt="Playas" width="360" src="https://github.com/machaparionaangelyoelver-web/fotosdecuaderno/blob/main/semana04_imagenes/page02-playas.png" />
+  <img alt="Ciudades" width="360" src="https://github.com/machaparionaangelyoelver-web/fotosdecuaderno/blob/main/semana04_imagenes/page02-ciudades.png" />
 </div>
 
 ### Page03 — Diseño Responsivo
 <div align="center" style="max-width:760px; margin:12px auto; padding:16px; border:1px solid #e2e8f0; border-radius:14px; background:#f8fafc;">
   <div align="left"><b>Comentario:</b> Página con flexbox y media queries para diferentes tamaños.</div>
-  <img alt="Responsive" width="520" src="https://github.com/machaparionaangelyoelver-web/fotosdecuaderno/blob/main/semana04_imagenes/page03-responsive.png" />
+  <img alt="Responsive" width="360" src="https://github.com/machaparionaangelyoelver-web/fotosdecuaderno/blob/main/semana04_imagenes/page03-responsive.png" />
 </div>
 
 ### Index — Cards animados
 <div align="center" style="max-width:760px; margin:12px auto; padding:16px; border:1px solid #e2e8f0; border-radius:14px; background:#f8fafc;">
   <div align="left"><b>Comentario:</b> Página principal con cards que giran 180° y enlazan a otras páginas.</div>
-  <img alt="Index cards" width="520" src="https://github.com/machaparionaangelyoelver-web/fotosdecuaderno/blob/3542a76e3a856a4ba06beca537a4f02075ee2afe/semana04_imagenes/git-branches.png" />
+  <img alt="Index cards" width="360" src="https://github.com/machaparionaangelyoelver-web/fotosdecuaderno/blob/3542a76e3a856a4ba06beca537a4f02075ee2afe/semana04_imagenes/git-branches.png" />
 </div>
 
 ---
