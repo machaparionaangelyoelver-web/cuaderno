@@ -69,8 +69,8 @@ Cuando hablamos de HTML avanzado nos referimos a lo que hace que una web sea **u
 
 ### 📷 Ejemplos gráficos  
 <div align="center">
-  <img src="https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/af17262b054e9add1ce560c39e2002086862e2b6/semana02_imagenes/diagramadeetiquetas.jpg" width="300" height="300" alt="Etiquetas semánticas"/>
-  <img src="https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/af17262b054e9add1ce560c39e2002086862e2b6/semana02_imagenes/formulariohtml.jpg" width="300" height="250" alt="Formulario HTML"/>
+  <img src="https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/af17262b054e9add1ce560c39e2002086862e2b6/semana02_imagenes/diagramadeetiquetas.jpg" width="400" height="400" alt="Etiquetas semánticas"/>
+  <img src="https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/af17262b054e9add1ce560c39e2002086862e2b6/semana02_imagenes/formulariohtml.jpg" width="400" height="350" alt="Formulario HTML"/>
 </div>
 
 ---
@@ -91,7 +91,7 @@ Nos permite aplicar estilos, colores, fuentes, márgenes y distribuciones.
 
 ### 📷 Ejemplo visual  
 <div align="center">
-  <img src="https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/af17262b054e9add1ce560c39e2002086862e2b6/semana02_imagenes/logocss3.jpg" width="400" height="300" alt="CSS3 logo"/>
+  <img src="https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/af17262b054e9add1ce560c39e2002086862e2b6/semana02_imagenes/logocss3.jpg" width="250" height="250" alt="CSS3 logo"/>
   <img src="https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/af17262b054e9add1ce560c39e2002086862e2b6/semana02_imagenes/diagramaboxmodel.png" width="400" height="300" alt="Box Model"/>
 </div>
 
