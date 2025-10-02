@@ -48,8 +48,7 @@ Lo más importante no es solo aprender etiquetas, sino aprender a darles un **us
 
 ### 📷 Ejemplos gráficos  
 <div align="center">
-  <img src="https://github.com/machaparionaangelyoelver-web/fotosdecuaderno/blob/af17262b054e9add1ce560c39e2002086862e2b6/semana02_imagenes/html%205%20.png" width="120" height="120" alt="HTML5 logo"/>
-  <br/>
+  <img src="https://github.com/machaparionaangelyoelver-web/fotosdecuaderno/blob/af17262b054e9add1ce560c39e2002086862e2b6/semana02_imagenes/html%205%20.png" width="520" height="400" alt="HTML5 logo"/>
   <img src="https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/af17262b054e9add1ce560c39e2002086862e2b6/semana02_imagenes/estructurahtml.jpg" width="700" height="400" alt="Estructura HTML"/>
 </div>
 
