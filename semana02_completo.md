@@ -70,9 +70,9 @@ Cuando hablamos de HTML avanzado nos referimos a lo que hace que una web sea **u
 
 ### 📷 Ejemplos gráficos  
 <div align="center">
-  <img src="https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/af17262b054e9add1ce560c39e2002086862e2b6/semana02_imagenes/diagramadeetiquetas.jpg" width="700" height="400" alt="Etiquetas semánticas"/>
+  <img src="https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/af17262b054e9add1ce560c39e2002086862e2b6/semana02_imagenes/diagramadeetiquetas.jpg" width="300" height="300" alt="Etiquetas semánticas"/>
   <br/>
-  <img src="https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/af17262b054e9add1ce560c39e2002086862e2b6/semana02_imagenes/formulariohtml.jpg" width="600" height="350" alt="Formulario HTML"/>
+  <img src="https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/af17262b054e9add1ce560c39e2002086862e2b6/semana02_imagenes/formulariohtml.jpg" width="300" height="250" alt="Formulario HTML"/>
 </div>
 
 ---
@@ -95,7 +95,7 @@ Nos permite aplicar estilos, colores, fuentes, márgenes y distribuciones.
 <div align="center">
   <img src="https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/af17262b054e9add1ce560c39e2002086862e2b6/semana02_imagenes/logocss3.jpg" width="120" height="120" alt="CSS3 logo"/>
   <br/>
-  <img src="https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/af17262b054e9add1ce560c39e2002086862e2b6/semana02_imagenes/diagramaboxmodel.png" width="600" height="400" alt="Box Model"/>
+  <img src="https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/af17262b054e9add1ce560c39e2002086862e2b6/semana02_imagenes/diagramaboxmodel.png" width="300" height="200" alt="Box Model"/>
 </div>
 
 ---
@@ -109,7 +109,7 @@ CSS avanzado incluye herramientas modernas para construir páginas adaptables y 
 - Propiedades: `display:flex`, `justify-content`, `align-items`, `gap`.  
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/af17262b054e9add1ce560c39e2002086862e2b6/semana02_imagenes/flexbox.png" width="600" height="350" alt="Flexbox ejemplo"/>
+  <img src="https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/af17262b054e9add1ce560c39e2002086862e2b6/semana02_imagenes/flexbox.png" width="400" height="250" alt="Flexbox ejemplo"/>
 </div>
 
 ### 📋 CSS Grid  
@@ -117,7 +117,7 @@ CSS avanzado incluye herramientas modernas para construir páginas adaptables y 
 - Propiedades: `display:grid`, `grid-template-columns`, `grid-template-rows`.  
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/af17262b054e9add1ce560c39e2002086862e2b6/semana02_imagenes/cssgrid.jpg" width="600" height="350" alt="CSS Grid ejemplo"/>
+  <img src="https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/af17262b054e9add1ce560c39e2002086862e2b6/semana02_imagenes/cssgrid.jpg" width="400" height="250" alt="CSS Grid ejemplo"/>
 </div>
 
 ### 📋 Animaciones y Transiciones  
@@ -139,7 +139,7 @@ CSS avanzado incluye herramientas modernas para construir páginas adaptables y 
 ```
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/af17262b054e9add1ce560c39e2002086862e2b6/semana02_imagenes/mediaqueries.png" width="700" height="400" alt="Media Queries"/>
+  <img src="https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/af17262b054e9add1ce560c39e2002086862e2b6/semana02_imagenes/mediaqueries.png" width="500" height="300" alt="Media Queries"/>
 </div>
 
 ---
