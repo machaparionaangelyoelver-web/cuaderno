@@ -1,6 +1,12 @@
-<!-- ENCABEZADO animado con ola -->
+<!-- ENCABEZADO animado con ola (solo texto principal) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:1E3A8A,100:0EA5E9&text=%F0%9F%93%95%20Cuaderno%20Digital%20%E2%80%94%20Semana%2004&fontAlign=50&fontAlignY=35&fontSize=34&fontColor=ffffff&desc=Tema%3A%20JavaScript%20B%C3%A1sico%20y%20Avanzado%20%2B%20Pr%C3%A1ctica%20Calificada%202&descAlign=50&descAlignY=60&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:1E3A8A,100:0EA5E9&text=📕%20Cuaderno%20Digital%20—%20Semana%2004&fontAlign=50&fontAlignY=35&fontSize=34&fontColor=ffffff&animation=fadeIn" />
+</p>
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/main/semana03_imagenes/uncp.jpg" width="96" height="96" alt="Logo UNCP" style="margin:10px;">
+  <img src="https://github.com/machaparionaangelyoelver-web/fotosdecuaderno/blob/f0cdbb12c97509f0e36e35dbcf156ae2eec47634/semana03_imagenes/logoFIS.png" width="96" height="96" alt="Logo FIS" style="margin:10px;">
 </p>
 
 <!-- Título con "typing" (Semana y tema principal)-->
