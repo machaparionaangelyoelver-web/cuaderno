@@ -133,7 +133,7 @@
 ### Index — Cards animados
 <div align="center" style="max-width:760px; margin:12px auto; padding:16px; border:1px solid #e2e8f0; border-radius:14px; background:#f8fafc;">
   <div align="left"><b>Comentario:</b> Página principal con cards que giran 180° y enlazan a otras páginas.</div>
-  <img alt="Index cards" width="520" src="https://github.com/machaparionaangelyoelver-web/fotosdecuaderno/blob/main/semana04_imagenes/index-cards.png" />
+  <img alt="Index cards" width="520" src="https://github.com/machaparionaangelyoelver-web/fotosdecuaderno/blob/3542a76e3a856a4ba06beca537a4f02075ee2afe/semana04_imagenes/git-branches.png" />
 </div>
 
 ---
