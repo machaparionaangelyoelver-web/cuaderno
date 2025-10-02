@@ -56,9 +56,9 @@
 | **CSS** | Estilos y diseño visual. | Grid, Flexbox, variables. | ![CSS](https://yeeply.com/wp-content/uploads/2024/07/images-11.png) |
 | **JavaScript** | Interactividad y lógica en el navegador. | Validar formularios, consumir APIs. | ![JS](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT51BMMUr2H27skg69TPo-ohN15vKM_fFeX0A&s) |
 | **HTTP/HTTPS** | Transporte de datos; HTTPS cifra y autentica. | `GET /api/productos` → `200 OK`. | ![HTTP](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxCtAsfoCVzcUo90ZWIZaeImDgqRoF6M4T5g&s) |
-| **API REST** | Interfaz basada en recursos y métodos HTTP. | `POST /ventas`. | <img src="https://www.seobility.net/es/wiki/images/b/b3/API-Rest.png" alt="API REST" width="120"> |
-| **DNS** | Traduce dominios a IPs. | `midominio.com` → `203.0.113.10`. | <img src="https://cdn-icons-png.flaticon.com/512/2333/2333476.png" alt="DNS" width="120"> |
-| **Open Web Platform** | Estándares abiertos de la Web. | HTML5, CSS3, ES6+, Web APIs. | <img src="https://img.freepik.com/vector-premium/icono-globo-efecto-purpura-degradado_197792-4858.jpg?semt=ais_hybrid&w=740&q=80" alt="Open Web" width="120"> |
+| **API REST** | Interfaz basada en recursos y métodos HTTP. | `POST /ventas`. | <img src="https://www.seobility.net/es/wiki/images/b/b3/API-Rest.png" alt="API REST" width="200"> |
+| **DNS** | Traduce dominios a IPs. | `midominio.com` → `203.0.113.10`. | <img src="https://cdn-icons-png.flaticon.com/512/2333/2333476.png" alt="DNS" width="200"> |
+| **Open Web Platform** | Estándares abiertos de la Web. | HTML5, CSS3, ES6+, Web APIs. | <img src="https://img.freepik.com/vector-premium/icono-globo-efecto-purpura-degradado_197792-4858.jpg?semt=ais_hybrid&w=740&q=80" alt="Open Web" width="200"> |
 
 ---
 
@@ -72,7 +72,7 @@
 | Pruebas | Lighthouse, Jest | Unit tests, integración, Postman |
 | Despliegue | Vercel, Netlify | VPS, Docker, Kubernetes |
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAytBmcFaaLKKgYpELKGQ6tE8zPbWohoBjTA&s" alt="Frontend vs Backend" width="600">
+<img src="https://bambu-mobile.com/wp-content/uploads/2024/08/Diferencia-entre-desarrollo-front-end-y-back-end.jpg" alt="Frontend vs Backend" width="600">
 
 
 ---
