@@ -2,6 +2,10 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:0F766E,100:0EA5E9&text=📕%20Cuaderno%20Digital%20—%20Semana%2005&fontAlign=50&fontAlignY=35&fontSize=34&fontColor=ffffff&animation=fadeIn" />
 </p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/main/semana03_imagenes/uncp.jpg" width="96" height="96" alt="Logo UNCP" style="margin:10px;">
+  <img src="https://github.com/machaparionaangelyoelver-web/fotosdecuaderno/blob/f0cdbb12c97509f0e36e35dbcf156ae2eec47634/semana03_imagenes/logoFIS.png" width="96" height="96" alt="Logo FIS" style="margin:10px;">
+</p>
 
 <!-- Animación con el nombre del estudiante -->
 <p align="center">
@@ -10,15 +14,12 @@
 
 <!-- Animación adicional con el título largo de la semana -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2400&pause=900&color=14B8A6&center=true&vCenter=true&width=980&lines=🌌%20Semana%2005%20—%20Node.js%2C%20npm%2C%20React%2C%20Vite%2C%20Next.js%20%2B%20Pr%C3%A1ctica%20Calificada%203" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=24&amp;duration=2400&amp;pause=900&amp;color=14B8A6&amp;center=true&amp;vCenter=true&amp;width=980&amp;lines=%F0%9F%8C%8C%20Semana%2005%20%E2%80%94%20Node.js%2C%20npm%2C%20React%2C%20Vite%2C%20Next.js%20%2B%20Pr%C3%A1ctica%20Calificada%203" alt="🌌 Semana 05 — Node.js, npm, React, Vite, Next.js + Práctica Calificada 3" />
 </p>
 
 ---
 
-# 🌌 Semana 05 — **Node.js, npm, React, Vite, Next.js + Práctica Calificada 3**
-
-> **Nota de diseño:** Todas las imágenes están dentro de *tarjetas* con comentario arriba e imagen abajo (ancho fijo ≈ **520px**). Esto mantiene una lectura limpia en GitHub y en móviles.
-
+# 🌌 Semana 05 — **Node.js, npm, React, Vite, Next.js **
 ---
 
 ## 🎯 Objetivos
@@ -38,7 +39,7 @@ Node.js es un **entorno de ejecución** que permite correr JavaScript **fuera de
 
 <div align="center" style="max-width:760px; margin:12px auto; padding:16px; border:1px solid #e2e8f0; border-radius:14px; background:#f8fafc;">
   <div align="left"><b>Comentario:</b> Logo de Node.js y verificación de versiones en consola.</div>
-  <img alt="Node.js" width="520" src="https://github.com/machaparionaangelyoelver-web/fotosdecuaderno/blob/acf948833fa1ec7311c624f21b5fc1621805dac8/semana05_imagenes/nodejs.png" />
+  <img alt="Node.js" width="120" src="https://github.com/machaparionaangelyoelver-web/fotosdecuaderno/blob/acf948833fa1ec7311c624f21b5fc1621805dac8/semana05_imagenes/nodejs.png" />
 </div>
 
 **Instalación y verificación**
@@ -78,7 +79,7 @@ npm es el **gestor de paquetes** de Node. Permite **instalar, actualizar** y **e
 
 <div align="center" style="max-width:760px; margin:12px auto; padding:16px; border:1px solid #e2e8f0; border-radius:14px; background:#f8fafc;">
   <div align="left"><b>Comentario:</b> Logo de npm y flujo de instalación de paquetes.</div>
-  <img alt="npm" width="520" src="https://github.com/machaparionaangelyoelver-web/fotosdecuaderno/blob/acf948833fa1ec7311c624f21b5fc1621805dac8/semana05_imagenes/npm.png" />
+  <img alt="npm" width="120" src="https://github.com/machaparionaangelyoelver-web/fotosdecuaderno/blob/acf948833fa1ec7311c624f21b5fc1621805dac8/semana05_imagenes/npm.png" />
 </div>
 
 **Comandos clave**
@@ -93,7 +94,7 @@ npx create-react-app miApp    # ejecuta binarios sin instalar global
 
 <div align="center" style="max-width:760px; margin:12px auto; padding:16px; border:1px solid #e2e8f0; border-radius:14px; background:#f8fafc;">
   <div align="left"><b>Comentario:</b> Ejemplo real de instalación en consola.</div>
-  <img alt="npm install consola" width="520" src="https://github.com/machaparionaangelyoelver-web/fotosdecuaderno/blob/acf948833fa1ec7311c624f21b5fc1621805dac8/semana05_imagenes/npm-install.png" />
+  <img alt="npm install consola" width="320" src="https://github.com/machaparionaangelyoelver-web/fotosdecuaderno/blob/acf948833fa1ec7311c624f21b5fc1621805dac8/semana05_imagenes/npm-install.png" />
 </div>
 
 **Scripts útiles en package.json**
@@ -119,7 +120,7 @@ npx create-react-app miApp    # ejecuta binarios sin instalar global
 
 <div align="center" style="max-width:760px; margin:12px auto; padding:16px; border:1px solid #e2e8f0; border-radius:14px; background:#f8fafc;">
   <div align="left"><b>Comentario:</b> Logo de React: UI declarativa basada en componentes.</div>
-  <img alt="React logo" width="420" src="https://github.com/machaparionaangelyoelver-web/fotosdecuaderno/blob/acf948833fa1ec7311c624f21b5fc1621805dac8/semana05_imagenes/react-logo.png" />
+  <img alt="React logo" width="120" src="https://github.com/machaparionaangelyoelver-web/fotosdecuaderno/blob/acf948833fa1ec7311c624f21b5fc1621805dac8/semana05_imagenes/react-logo.png" />
 </div>
 
 **Crear app con CRA**
@@ -131,7 +132,7 @@ npm start
 
 <div align="center" style="max-width:760px; margin:12px auto; padding:16px; border:1px solid #e2e8f0; border-radius:14px; background:#f8fafc;">
   <div align="left"><b>Comentario:</b> Consola creando proyecto con Create React App.</div>
-  <img alt="Create React App" width="520" src="https://github.com/machaparionaangelyoelver-web/fotosdecuaderno/blob/acf948833fa1ec7311c624f21b5fc1621805dac8/semana05_imagenes/create-react.png" />
+  <img alt="Create React App" width="320" src="https://github.com/machaparionaangelyoelver-web/fotosdecuaderno/blob/acf948833fa1ec7311c624f21b5fc1621805dac8/semana05_imagenes/create-react..png" />
 </div>
 
 **Componente + props + estado**
@@ -161,12 +162,12 @@ function Usuarios() {
 
 <div align="center" style="max-width:760px; margin:12px auto; padding:16px; border:1px solid #e2e8f0; border-radius:14px; background:#f8fafc;">
   <div align="left"><b>Comentario:</b> Visual de componentes y jerarquía.</div>
-  <img alt="React Components" width="520" src="https://github.com/machaparionaangelyoelver-web/fotosdecuaderno/blob/acf948833fa1ec7311c624f21b5fc1621805dac8/semana05_imagenes/react-components.png" />
+  <img alt="React Components" width="420" src="https://github.com/machaparionaangelyoelver-web/fotosdecuaderno/blob/acf948833fa1ec7311c624f21b5fc1621805dac8/semana05_imagenes/react-components.png" />
 </div>
 
 <div align="center" style="max-width:760px; margin:12px auto; padding:16px; border:1px solid #e2e8f0; border-radius:14px; background:#f8fafc;">
   <div align="left"><b>Comentario:</b> Esquema de hooks más usados.</div>
-  <img alt="React Hooks" width="520" src="https://github.com/machaparionaangelyoelver-web/fotosdecuaderno/blob/acf948833fa1ec7311c624f21b5fc1621805dac8/semana05_imagenes/react-hooks.png" />
+  <img alt="React Hooks" width="420" src="https://github.com/machaparionaangelyoelver-web/fotosdecuaderno/blob/acf948833fa1ec7311c624f21b5fc1621805dac8/semana05_imagenes/react-hooks.png" />
 </div>
 
 ---
@@ -188,12 +189,12 @@ npm run dev
 
 <div align="center" style="max-width:760px; margin:12px auto; padding:16px; border:1px solid #e2e8f0; border-radius:14px; background:#f8fafc;">
   <div align="left"><b>Comentario:</b> Logo Vite y arranque del servidor dev.</div>
-  <img alt="Vite" width="420" src="https://github.com/machaparionaangelyoelver-web/fotosdecuaderno/blob/acf948833fa1ec7311c624f21b5fc1621805dac8/semana05_imagenes/vite.png" />
+  <img alt="Vite" width="120" src="https://github.com/machaparionaangelyoelver-web/fotosdecuaderno/blob/acf948833fa1ec7311c624f21b5fc1621805dac8/semana05_imagenes/vite.png" />
 </div>
 
 <div align="center" style="max-width:760px; margin:12px auto; padding:16px; border:1px solid #e2e8f0; border-radius:14px; background:#f8fafc;">
   <div align="left"><b>Comentario:</b> Consola mostrando URL local y HMR activo.</div>
-  <img alt="Vite consola" width="520" src="https://github.com/machaparionaangelyoelver-web/fotosdecuaderno/blob/acf948833fa1ec7311c624f21b5fc1621805dac8/semana05_imagenes/vite-console.png" />
+  <img alt="Vite consola" width="420" src="https://github.com/machaparionaangelyoelver-web/fotosdecuaderno/blob/acf948833fa1ec7311c624f21b5fc1621805dac8/semana05_imagenes/vite-console.png" />
 </div>
 
 **vite.config.js con React**
@@ -208,7 +209,7 @@ export default defineConfig({
 
 <div align="center" style="max-width:760px; margin:12px auto; padding:16px; border:1px solid #e2e8f0; border-radius:14px; background:#f8fafc;">
   <div align="left"><b>Comentario:</b> Estructura típica en proyectos Vite (src, main.jsx, index.html).</div>
-  <img alt="Vite estructura" width="520" src="https://github.com/machaparionaangelyoelver-web/fotosdecuaderno/blob/acf948833fa1ec7311c624f21b5fc1621805dac8/semana05_imagenes/vite-structure.png" />
+  <img alt="Vite estructura" width="420" src="https://github.com/machaparionaangelyoelver-web/fotosdecuaderno/blob/acf948833fa1ec7311c624f21b5fc1621805dac8/semana05_imagenes/vite-structure.png" />
 </div>
 
 ---
@@ -230,7 +231,7 @@ npm run dev
 
 <div align="center" style="max-width:760px; margin:12px auto; padding:16px; border:1px solid #e2e8f0; border-radius:14px; background:#f8fafc;">
   <div align="left"><b>Comentario:</b> Logo Next.js.</div>
-  <img alt="Next.js" width="420" src="https://github.com/machaparionaangelyoelver-web/fotosdecuaderno/blob/acf948833fa1ec7311c624f21b5fc1621805dac8/semana05_imagenes/nextjs.png" />
+  <img alt="Next.js" width="120" src="https://github.com/machaparionaangelyoelver-web/fotosdecuaderno/blob/acf948833fa1ec7311c624f21b5fc1621805dac8/semana05_imagenes/nextjs.png" />
 </div>
 
 **Páginas y rutas (Pages Router)**
@@ -243,12 +244,12 @@ export default function About() { return <h1>Acerca de</h1>; }
 
 <div align="center" style="max-width:760px; margin:12px auto; padding:16px; border:1px solid #e2e8f0; border-radius:14px; background:#f8fafc;">
   <div align="left"><b>Comentario:</b> Estructura de carpetas habitual: pages, public, styles.</div>
-  <img alt="Next estructura" width="520" src="https://github.com/machaparionaangelyoelver-web/fotosdecuaderno/blob/acf948833fa1ec7311c624f21b5fc1621805dac8/semana05_imagenes/nextjs-structure.png" />
+  <img alt="Next estructura" width="420" src="https://github.com/machaparionaangelyoelver-web/fotosdecuaderno/blob/acf948833fa1ec7311c624f21b5fc1621805dac8/semana05_imagenes/nextjs-structure.png" />
 </div>
 
 <div align="center" style="max-width:760px; margin:12px auto; padding:16px; border:1px solid #e2e8f0; border-radius:14px; background:#f8fafc;">
   <div align="left"><b>Comentario:</b> Ejemplo de rutas en Pages Router.</div>
-  <img alt="Next páginas" width="520" src="https://github.com/machaparionaangelyoelver-web/fotosdecuaderno/blob/acf948833fa1ec7311c624f21b5fc1621805dac8/semana05_imagenes/nextjs-pages.png" />
+  <img alt="Next páginas" width="420" src="https://github.com/machaparionaangelyoelver-web/fotosdecuaderno/blob/acf948833fa1ec7311c624f21b5fc1621805dac8/semana05_imagenes/nextjs-pages.png" />
 </div>
 
 **Datos en SSR/SSG**
@@ -288,7 +289,7 @@ export default function handler(req, res) {
 
 <div align="center" style="max-width:760px; margin:12px auto; padding:16px; border:1px solid #e2e8f0; border-radius:14px; background:#f8fafc;">
   <div align="left"><b>Comentario:</b> Tabla visual comparativa (logos CRA, Vite, Next).</div>
-  <img alt="Comparación" width="520" src="https://github.com/machaparionaangelyoelver-web/fotosdecuaderno/blob/acf948833fa1ec7311c624f21b5fc1621805dac8/semana05_imagenes/comparacion.png" />
+  <img alt="Comparación" width="420" src="https://github.com/machaparionaangelyoelver-web/fotosdecuaderno/blob/acf948833fa1ec7311c624f21b5fc1621805dac8/semana05_imagenes/comparacion.png" />
 </div>
 
 ---
@@ -316,12 +317,12 @@ function girar() {
 
 <div align="center" style="max-width:760px; margin:12px auto; padding:16px; border:1px solid #e2e8f0; border-radius:14px; background:#f8fafc;">
   <div align="left"><b>Comentario:</b> Ruleta lista para girar.</div>
-  <img alt="Ruleta" width="520" src="https://github.com/machaparionaangelyoelver-web/fotosdecuaderno/blob/acf948833fa1ec7311c624f21b5fc1621805dac8/semana05_imagenes/ruleta.png" />
+  <img alt="Ruleta" width="420" src="https://github.com/machaparionaangelyoelver-web/fotosdecuaderno/blob/acf948833fa1ec7311c624f21b5fc1621805dac8/semana05_imagenes/ruleta.png" />
 </div>
 
 <div align="center" style="max-width:760px; margin:12px auto; padding:16px; border:1px solid #e2e8f0; border-radius:14px; background:#f8fafc;">
   <div align="left"><b>Comentario:</b> Ruleta girando y seleccionando un elemento.</div>
-  <img alt="Ruleta girando" width="520" src="https://github.com/machaparionaangelyoelver-web/fotosdecuaderno/blob/acf948833fa1ec7311c624f21b5fc1621805dac8/semana05_imagenes/ruleta-girando.gif" />
+  <img alt="Ruleta girando" width="420" src="https://github.com/machaparionaangelyoelver-web/fotosdecuaderno/blob/acf948833fa1ec7311c624f21b5fc1621805dac8/semana05_imagenes/ruleta-girando.gif" />
 </div>
 
 ### 2) Sorteo de equipos
@@ -343,12 +344,12 @@ function sortear(participantes, nEquipos) {
 
 <div align="center" style="max-width:760px; margin:12px auto; padding:16px; border:1px solid #e2e8f0; border-radius:14px; background:#f8fafc;">
   <div align="left"><b>Comentario:</b> Interfaz de sorteo con participantes y opciones.</div>
-  <img alt="Sorteo" width="520" src="https://github.com/machaparionaangelyoelver-web/fotosdecuaderno/blob/acf948833fa1ec7311c624f21b5fc1621805dac8/semana05_imagenes/sorteo-equipos.png" />
+  <img alt="Sorteo" width="420" src="https://github.com/machaparionaangelyoelver-web/fotosdecuaderno/blob/acf948833fa1ec7311c624f21b5fc1621805dac8/semana05_imagenes/sorteo-equipos.png" />
 </div>
 
 <div align="center" style="max-width:760px; margin:12px auto; padding:16px; border:1px solid #e2e8f0; border-radius:14px; background:#f8fafc;">
   <div align="left"><b>Comentario:</b> Equipos generados.</div>
-  <img alt="Equipos generados" width="520" src="https://github.com/machaparionaangelyoelver-web/fotosdecuaderno/blob/acf948833fa1ec7311c624f21b5fc1621805dac8/semana05_imagenes/equipos-generados.png" />
+  <img alt="Equipos generados" width="420" src="https://github.com/machaparionaangelyoelver-web/fotosdecuaderno/blob/acf948833fa1ec7311c624f21b5fc1621805dac8/semana05_imagenes/equipos-generados.png" />
 </div>
 
 ---
