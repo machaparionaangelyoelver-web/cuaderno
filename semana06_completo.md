@@ -16,8 +16,13 @@
 
 <!-- Animación adicional con el título largo de la semana -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2400&pause=900&color=14B8A6&center=true&vCenter=true&width=980&lines=🌌%20Semana%2006%20—%20Componentes%20en%20React%3A%20JSX%2C%20Props%2FChildren%2C%20Comunicaci%C3%B3n%2C%20TSX%2C%20Estilos" alt="🌌 Semana 06 — Componentes en React: JSX, Props/Children, Comunicación, TSX, Estilos" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=24&amp;duration=2400&amp;pause=900&amp;color=14B8A6&amp;center=true&amp;vCenter=true&amp;width=980&amp;lines=%F0%9F%8C%8C%20Componentes%20en%20React%3A%20JSX%2C%20Props%2FChildren%2C%20Comunicaci%C3%B3n%2C%20TSX%2C%20Estilos"
+    alt="🌌 Semana 06 — Componentes en React: JSX, Props/Children, Comunicación, TSX, Estilos"
+  />
 </p>
+
+
 
 ---
 
@@ -55,7 +60,12 @@
 
 > **Comentario:** React es una librería de *UI*. No decide todo tu stack; por eso es importante comparar alternativas (p. ej., CSS Modules vs Tailwind) y entender cuándo conviene cada una.
 
-![Portada de la Semana 06: Componentes en React](https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/08066b9a50f2a050e1c1e095700a705057456e67/semana06_imagenes/portada/portada_semana06.jpg)
+<p align="center">
+  <img 
+    src="https://github.com/machaparionaangelyoelver-web/fotosdecuaderno/blob/c423311ec358076361d302b32f6258533e11d64c/semana06_imagenes/portada/portada_semana06.jpg" 
+    alt="Portada de la Semana 06: Componentes en React" 
+    width="500" />
+</p>
 
 ---
 
@@ -78,8 +88,19 @@ root.render(<App />)
 **¿Virtual DOM?**  
 React mantiene una representación en memoria del DOM (árbol de nodos). Cuando el estado cambia, React calcula un **diff** entre el árbol previo y el nuevo, y aplica **solo** las modificaciones mínimas necesarias al DOM real (**reconciliación**).
 
-![Esquema de ReactDOM renderizando en el elemento root](https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/08066b9a50f2a050e1c1e095700a705057456e67/semana06_imagenes/renderizado_dom/reactdom_render_esquema.png)
-![Diagrama de Virtual DOM, diffing y reconciliación](https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/08066b9a50f2a050e1c1e095700a705057456e67/semana06_imagenes/renderizado_dom/virtual_dom_diffing.png)
+<p align="center">
+  <img 
+    src="https://github.com/machaparionaangelyoelver-web/fotosdecuaderno/blob/c423311ec358076361d302b32f6258533e11d64c/semana06_imagenes/renderizado_dom/reactdom_render_esquema.png" 
+    alt="Esquema de ReactDOM renderizando en el elemento root" 
+    width="400" 
+    style="margin:10px;">
+  <img 
+    src="https://github.com/machaparionaangelyoelver-web/fotosdecuaderno/blob/c423311ec358076361d302b32f6258533e11d64c/semana06_imagenes/renderizado_dom/virtual_dom_diffing.png" 
+    alt="Diagrama de Virtual DOM, diffing y reconciliación" 
+    width="400" 
+    style="margin:10px;">
+</p>
+
 
 > **Comentario:** El DOM real es costoso de manipular. El Virtual DOM permite *agrupar* y optimizar cambios, mejorando performance.
 
@@ -99,7 +120,14 @@ class SaludoClase extends Component {
 }
 export default SaludoClase
 ```
-![Ejemplo de componente de clase en React](https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/08066b9a50f2a050e1c1e095700a705057456e67/semana06_imagenes/componentes/componente_clase.png)
+<p align="center">
+  <img 
+    src="https://github.com/machaparionaangelyoelver-web/fotosdecuaderno/blob/c423311ec358076361d302b32f6258533e11d64c/semana06_imagenes/componentes/componente_clase.png" 
+    alt="Ejemplo de componente de clase en React" 
+    width="450">
+</p>
+
+
 
 ### Función (preferido)
 ```jsx
@@ -122,7 +150,14 @@ function Contador(){
   )
 }
 ```
-![Ejemplo de componente de función en React](https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/08066b9a50f2a050e1c1e095700a705057456e67/semana06_imagenes/componentes/componente_funcion.png)
+<p align="center">
+  <img 
+    src="https://github.com/machaparionaangelyoelver-web/fotosdecuaderno/blob/c423311ec358076361d302b32f6258533e11d64c/semana06_imagenes/componentes/componente_funcion.png" 
+    alt="Ejemplo de componente de función en React" 
+    width="450">
+</p>
+
+
 
 > **Comentario:** Con **hooks** (`useState`, `useEffect`, etc.) los componentes de función resultan más expresivos y fáciles de testear.
 
@@ -144,9 +179,30 @@ export default function Perfil(){
   )
 }
 ```
-![Inserción de variables en JSX](https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/08066b9a50f2a050e1c1e095700a705057456e67/semana06_imagenes/jsx/jsx_variables.png)
-![Atributos dinámicos en JSX](https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/08066b9a50f2a050e1c1e095700a705057456e67/semana06_imagenes/jsx/jsx_atributos.png)
-![Expresiones JavaScript dentro de JSX](https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/08066b9a50f2a050e1c1e095700a705057456e67/semana06_imagenes/jsx/jsx_expresiones.png)
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/08066b9a50f2a050e1c1e095700a705057456e67/semana06_imagenes/jsx/jsx_variables.png" 
+    alt="Inserción de variables en JSX" 
+    width="400"
+    style="margin:10px 0;">
+</p>
+
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/08066b9a50f2a050e1c1e095700a705057456e67/semana06_imagenes/jsx/jsx_atributos.png" 
+    alt="Atributos dinámicos en JSX" 
+    width="400"
+    style="margin:10px 0;">
+</p>
+
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/08066b9a50f2a050e1c1e095700a705057456e67/semana06_imagenes/jsx/jsx_expresiones.png" 
+    alt="Expresiones JavaScript dentro de JSX" 
+    width="400"
+    style="margin:10px 0;">
+</p>
+
 
 ### Fragments y regla de etiqueta raíz
 ```jsx
@@ -159,10 +215,23 @@ export default function Lista(){
   )
 }
 ```
-![Fragmentos en JSX como contenedor raíz](https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/08066b9a50f2a050e1c1e095700a705057456e67/semana06_imagenes/jsx/jsx_fragment.png)
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/08066b9a50f2a050e1c1e095700a705057456e67/semana06_imagenes/jsx/jsx_fragment.png" 
+    alt="Fragmentos en JSX como contenedor raíz" 
+    width="400"
+    style="margin:10px 0;">
+</p>
 
 > **Regla:** Las etiquetas **autocerradas** deben cerrarse: `<img />`, `<input />`.
-![Regla de cierre de etiquetas en JSX](https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/08066b9a50f2a050e1c1e095700a705057456e67/semana06_imagenes/jsx/jsx_cerrar_etiquetas.png)
+
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/08066b9a50f2a050e1c1e095700a705057456e67/semana06_imagenes/jsx/jsx_cerrar_etiquetas.png" 
+    alt="Regla de cierre de etiquetas en JSX" 
+    width="400"
+    style="margin:10px 0;">
+</p>
 
 ### Render condicional (if, ternario, &&)
 ```jsx
@@ -174,9 +243,29 @@ function Estado({ online }){
 const EstadoTernario = ({ n }) => <p>{n % 2 === 0 ? 'Par' : 'Impar'}</p>
 const Mensaje = ({ ok }) => <p>{ok && 'Éxito'}</p>
 ```
-![Render condicional con if en React](https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/08066b9a50f2a050e1c1e095700a705057456e67/semana06_imagenes/jsx/jsx_condicional_if.png)
-![Render condicional con ? : en JSX](https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/08066b9a50f2a050e1c1e095700a705057456e67/semana06_imagenes/jsx/jsx_condicional_ternario.png)
-![Render condicional con operador AND lógico](https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/08066b9a50f2a050e1c1e095700a705057456e67/semana06_imagenes/jsx/jsx_condicional_and.png)
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/08066b9a50f2a050e1c1e095700a705057456e67/semana06_imagenes/jsx/jsx_condicional_if.png" 
+    alt="Render condicional con if en React" 
+    width="400"
+    style="margin:10px 0;">
+</p>
+
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/08066b9a50f2a050e1c1e095700a705057456e67/semana06_imagenes/jsx/jsx_condicional_ternario.png" 
+    alt="Render condicional con ? : en JSX" 
+    width="400"
+    style="margin:10px 0;">
+</p>
+
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/08066b9a50f2a050e1c1e095700a705057456e67/semana06_imagenes/jsx/jsx_condicional_and.png" 
+    alt="Render condicional con operador AND lógico" 
+    width="400"
+    style="margin:10px 0;">
+</p>
 
 ### Listas con `.map()` y `key`
 ```jsx
@@ -197,7 +286,13 @@ export default function ListaEstudiantes(){
   )
 }
 ```
-![Renderizado de listas con map en JSX](https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/08066b9a50f2a050e1c1e095700a705057456e67/semana06_imagenes/jsx/jsx_map_listas.png)
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/08066b9a50f2a050e1c1e095700a705057456e67/semana06_imagenes/jsx/jsx_map_listas.png" 
+    alt="Renderizado de listas con map en JSX" 
+    width="400"
+    style="margin:10px 0;">
+</p>
 
 > **Comentario:** La `key` debe ser **estable y única** (evita el índice del array en listas mutables).
 
@@ -217,8 +312,21 @@ export default function Saludo({ nombre = 'Mundo', veces = 1 }: Props){
   return <h3>{`Hola ${nombre}! `.repeat(veces)}</h3>
 }
 ```
-![Variables tipadas en TypeScript para React](https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/08066b9a50f2a050e1c1e095700a705057456e67/semana06_imagenes/typescript/ts_tipado_basico.png)
-![Componente TSX con tipado de props](https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/08066b9a50f2a050e1c1e095700a705057456e67/semana06_imagenes/typescript/componente_tsx.png)
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/08066b9a50f2a050e1c1e095700a705057456e67/semana06_imagenes/typescript/ts_tipado_basico.png" 
+    alt="Variables tipadas en TypeScript para React" 
+    width="400"
+    style="margin:10px 0;">
+</p>
+
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/08066b9a50f2a050e1c1e095700a705057456e67/semana06_imagenes/typescript/componente_tsx.png" 
+    alt="Componente TSX con tipado de props" 
+    width="400"
+    style="margin:10px 0;">
+</p>
 
 > **Comentario:** Empieza tipando **props** y funciones. Más adelante, modela **estado** y **APIs** con interfaces.
 
@@ -232,7 +340,13 @@ export default function Saludo({ nombre = 'Mundo', veces = 1 }: Props){
 import './App.css'
 export default () => <h1 className="title">Hola CSS</h1>
 ```
-![Hojas de estilo CSS en React](https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/08066b9a50f2a050e1c1e095700a705057456e67/semana06_imagenes/estilos/css_hojas.png)
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/08066b9a50f2a050e1c1e095700a705057456e67/semana06_imagenes/estilos/css_hojas.png" 
+    alt="Hojas de estilo CSS en React" 
+    width="400"
+    style="margin:10px 0;">
+</p>
 
 ### CSS Modules
 ```css
@@ -247,14 +361,21 @@ export default function Card({ children }){
   return <div className={styles.card}><h3 className={styles.title}>Card</h3>{children}</div>
 }
 ```
-![CSS Modules en componentes React](https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/08066b9a50f2a050e1c1e095700a705057456e67/semana06_imagenes/estilos/css_modules.png)
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/08066b9a50f2a050e1c1e095700a705057456e67/semana06_imagenes/estilos/css_modules.png" 
+    alt="CSS Modules en componentes React" 
+    width="400"
+    style="margin:10px 0;">
+</p>
 
 ### Inline styles
 ```jsx
 const box = { background:'#fff', border:'1px solid #e5e7eb', padding:'8px 12px' }
 export default () => <div style={box}>Inline</div>
+
 ```
-![Estilos inline en React](https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/08066b9a50f2a050e1c1e095700a705057456e67/semana06_imagenes/estilos/css_inline.png)
+<p align="center"> <img src="https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/08066b9a50f2a050e1c1e095700a705057456e67/semana06_imagenes/estilos/css_inline.png" alt="Estilos inline en React" width="400" style="margin:10px 0;"> </p> ```
 
 ### Tailwind CSS (con Vite)
 Instala y configura:
@@ -262,7 +383,13 @@ Instala y configura:
 npm i -D tailwindcss postcss autoprefixer
 npx tailwindcss init -p
 ```
-![Instalación de Tailwind en un proyecto React/Vite](https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/08066b9a50f2a050e1c1e095700a705057456e67/semana06_imagenes/estilos/tailwind_instalacion.png)
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/08066b9a50f2a050e1c1e095700a705057456e67/semana06_imagenes/estilos/tailwind_instalacion.png" 
+    alt="Instalación de Tailwind en un proyecto React/Vite" 
+    width="400"
+    style="margin:10px 0;">
+</p>
 
 Configura `tailwind.config.js`:
 ```js
@@ -274,7 +401,13 @@ export default {
   plugins: []
 }
 ```
-![Configuración de rutas de Tailwind](https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/08066b9a50f2a050e1c1e095700a705057456e67/semana06_imagenes/estilos/tailwind_config.png)
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/08066b9a50f2a050e1c1e095700a705057456e67/semana06_imagenes/estilos/tailwind_config.png" 
+    alt="Configuración de rutas de Tailwind" 
+    width="400"
+    style="margin:10px 0;">
+</p>
 
 Agrega directivas en tu CSS base (p. ej., `src/index.css`):
 ```css
@@ -282,7 +415,13 @@ Agrega directivas en tu CSS base (p. ej., `src/index.css`):
 @tailwind components;
 @tailwind utilities;
 ```
-![Directivas de Tailwind en el CSS principal](https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/08066b9a50f2a050e1c1e095700a705057456e67/semana06_imagenes/estilos/tailwind_directivas.png)
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/08066b9a50f2a050e1c1e095700a705057456e67/semana06_imagenes/estilos/tailwind_directivas.png" 
+    alt="Directivas de Tailwind en el CSS principal" 
+    width="400"
+    style="margin:10px 0;">
+</p>
 
 > **Comentario:** Tailwind acelera prototipado con utilidades. CSS Modules te da **encapsulamiento** semántico por componente. Elige según el **equipo** y el **proyecto**.
 
@@ -302,11 +441,30 @@ export default function Ejemplo(){
   )
 }
 ```
-![Paso de props desde el padre al hijo](https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/08066b9a50f2a050e1c1e095700a705057456e67/semana06_imagenes/props_children/props_basico.png)
-![Uso de children en componentes React](https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/08066b9a50f2a050e1c1e095700a705057456e67/semana06_imagenes/props_children/children_basico.png)
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/08066b9a50f2a050e1c1e095700a705057456e67/semana06_imagenes/props_children/props_basico.png" 
+    alt="Paso de props desde el padre al hijo" 
+    width="400"
+    style="margin:10px 0;">
+</p>
+
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/08066b9a50f2a050e1c1e095700a705057456e67/semana06_imagenes/props_children/children_basico.png" 
+    alt="Uso de children en componentes React" 
+    width="400"
+    style="margin:10px 0;">
+</p>
 
 **Composición:** Usamos componentes contenedores que **orquestan** otros componentes.
-![Composición de componentes](https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/08066b9a50f2a050e1c1e095700a705057456e67/semana06_imagenes/props_children/composicion_componentes.png)
+!<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/08066b9a50f2a050e1c1e095700a705057456e67/semana06_imagenes/props_children/composicion_componentes.png" 
+    alt="Composición de componentes" 
+    width="400"
+    style="margin:10px 0;">
+</p>
 
 ---
 
@@ -331,9 +489,29 @@ function Padre(){
   )
 }
 ```
-![Comunicación de padre a hijo con props](https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/08066b9a50f2a050e1c1e095700a705057456e67/semana06_imagenes/comunicacion/parent_to_child.png)
-![Comunicación de hijo a padre elevando estado](https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/08066b9a50f2a050e1c1e095700a705057456e67/semana06_imagenes/comunicacion/child_to_parent.png)
-![Comunicación entre hermanos via estado en el padre](https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/08066b9a50f2a050e1c1e095700a705057456e67/semana06_imagenes/comunicacion/hermanos_estado_compartido.png)
+<p align="center">
+  <img 
+    src="https://github.com/machaparionaangelyoelver-web/fotosdecuaderno/blob/19f58acb797bad9a97ef19a822932e62a52cbffb/semana06_imagenes/comunicacion/parent_to_child.png" 
+    alt="Comunicación de padre a hijo con props" 
+    width="400"
+    style="margin:10px 0;">
+</p>
+
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/08066b9a50f2a050e1c1e095700a705057456e67/semana06_imagenes/comunicacion/child_to_parent.png" 
+    alt="Comunicación de hijo a padre elevando estado" 
+    width="400"
+    style="margin:10px 0;">
+</p>
+
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/08066b9a50f2a050e1c1e095700a705057456e67/semana06_imagenes/comunicacion/hermanos_estado_compartido.png" 
+    alt="Comunicación entre hermanos vía estado en el padre" 
+    width="400"
+    style="margin:10px 0;">
+</p>
 
 > **Comentario:** Si la información debe estar disponible para muchos niveles, considera **Context API** (o una librería de estado).
 
@@ -356,7 +534,13 @@ export default function Layout(){
   )
 }
 ```
-![Layout responsivo con varios componentes](https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/08066b9a50f2a050e1c1e095700a705057456e67/semana06_imagenes/casos/layout_responsivo.png)
+<p align="center">
+  <img 
+    src="https://github.com/machaparionaangelyoelver-web/fotosdecuaderno/blob/19f58acb797bad9a97ef19a822932e62a52cbffb/semana06_imagenes/casos/layout_responsivo.png" 
+    alt="Layout responsivo con varios componentes" 
+    width="400"
+    style="margin:10px 0;">
+</p>
 
 ### 2) Tabla de estudiantes
 ```jsx
@@ -384,7 +568,13 @@ function Tabla({ filas }){
   )
 }
 ```
-![Tabla de estudiantes en React](https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/08066b9a50f2a050e1c1e095700a705057456e67/semana06_imagenes/casos/tabla_estudiantes.png)
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/08066b9a50f2a050e1c1e095700a705057456e67/semana06_imagenes/casos/tabla_estudiantes.png" 
+    alt="Tabla de estudiantes en React" 
+    width="400"
+    style="margin:10px 0;">
+</p>
 
 > **Comentario:** Mantén **datos** y **presentación** desacoplados. La tabla solo renderiza lo que recibe por **props**.
 
@@ -393,20 +583,50 @@ function Tabla({ filas }){
 ## Evidencias (galería)
 Estas imágenes documentan los 5 ejercicios desarrollados:
 
-1. `evidencia_01_render_root.jpg` — Montaje inicial con `createRoot` (main.jsx) y vista en el navegador.  
-   ![Evidencia: montaje inicial](https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/08066b9a50f2a050e1c1e095700a705057456e67/semana06_imagenes/evidencias/evidencia_01_render_root.jpg)
+1. <code>evidencia_01_render_root.jpg</code> — Montaje inicial con <code>createRoot</code> (<code>main.jsx</code>) y vista en el navegador.  
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/08066b9a50f2a050e1c1e095700a705057456e67/semana06_imagenes/evidencias/evidencia_01_render_root.jpg" 
+    alt="Evidencia: montaje inicial" 
+    width="400" 
+    style="margin:10px 0;">
+</p>
 
-2. `evidencia_02_componente_funcional_props.jpg` — Componente funcional recibiendo **props** y renderizado.  
-   ![Evidencia: componente funcional con props](https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/08066b9a50f2a050e1c1e095700a705057456e67/semana06_imagenes/evidencias/evidencia_02_componente_funcional_props.jpg)
+2. <code>evidencia_02_componente_funcional_props.jpg</code> — Componente funcional recibiendo <strong>props</strong> y renderizado.  
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/08066b9a50f2a050e1c1e095700a705057456e67/semana06_imagenes/evidencias/evidencia_02_componente_funcional_props.jpg" 
+    alt="Evidencia: componente funcional con props" 
+    width="400" 
+    style="margin:10px 0;">
+</p>
 
-3. `evidencia_03_children_composicion.jpg` — Uso de **children** y **composición** (Layout).  
-   ![Evidencia: children y composición](https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/08066b9a50f2a050e1c1e095700a705057456e67/semana06_imagenes/evidencias/evidencia_03_children_composicion.jpg)
+3. <code>evidencia_03_children_composicion.jpg</code> — Uso de <strong>children</strong> y <strong>composición</strong> (Layout).  
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/08066b9a50f2a050e1c1e095700a705057456e67/semana06_imagenes/evidencias/evidencia_03_children_composicion.jpg" 
+    alt="Evidencia: children y composición" 
+    width="400" 
+    style="margin:10px 0;">
+</p>
 
-4. `evidencia_04_lift_state_child_to_parent.jpg` — **Lifting state** (hijo actualiza estado en el padre).  
-   ![Evidencia: hijo a padre elevando estado](https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/08066b9a50f2a050e1c1e095700a705057456e67/semana06_imagenes/evidencias/evidencia_04_lift_state_child_to_parent.jpg)
+4. <code>evidencia_04_lift_state_child_to_parent.jpg</code> — <strong>Lifting state</strong> (hijo actualiza estado en el padre).  
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/08066b9a50f2a050e1c1e095700a705057456e67/semana06_imagenes/evidencias/evidencia_04_lift_state_child_to_parent.jpg" 
+    alt="Evidencia: hijo a padre elevando estado" 
+    width="400" 
+    style="margin:10px 0;">
+</p>
 
-5. `evidencia_05_list_map_condicional.jpg` — **Listas con `.map()`** + **render condicional** (p. ej., “Activo/Inactivo”).  
-   ![Evidencia: map + condicional](https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/08066b9a50f2a050e1c1e095700a705057456e67/semana06_imagenes/evidencias/evidencia_05_list_map_condicional.jpg)
+5. <code>evidencia_05_list_map_condicional.jpg</code> — <strong>Listas con <code>.map()</code></strong> + <strong>render condicional</strong> (p. ej., “Activo/Inactivo”).  
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/08066b9a50f2a050e1c1e095700a705057456e67/semana06_imagenes/evidencias/evidencia_05_list_map_condicional.jpg" 
+    alt="Evidencia: map + condicional" 
+    width="400" 
+    style="margin:10px 0;">
+</p>
 
 > **Sugerencia:** añade breves descripciones bajo cada evidencia en el PR de GitHub para facilitar la revisión.
 
