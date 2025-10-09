@@ -9,8 +9,22 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2400&pause=900&color=14B8A6&center=true&vCenter=true&width=980&lines=⚛️%20Semana%2007%20—%20React%20Hooks%20%2B%20Comunicación%20Padre–Hijo%20(Children)" />
+  <img
+    alt="Semana 07 — React Hooks + Comunicación Padre-Hijo"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1200&color=14B8A6&center=true&vCenter=true&width=980&lines=%E2%9A%9B%EF%B8%8F%20Semana%2007%20%E2%80%94%20React%20Hooks%20%2B%20Comunicaci%C3%B3n%20Padre-Hijo"
+  />
 </p>
+
+
+
+<p align="center">
+  <img
+    alt="Macha Pariona Angel Yoelver — Desarrollo de Aplicaciones Web"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1200&color=14B8A6&center=true&vCenter=true&width=980&lines=Macha%20Pariona%20Angel%20Yoelver%20%E2%80%94%20Desarrollo%20de%20Aplicaciones%20Web"
+  />
+</p>
+
+
 
 ---
 
@@ -258,14 +272,6 @@ Los **Hooks** transformaron la forma en que React maneja el estado y la lógica.
 Entender cómo un **Padre comunica información a sus Hijos** y cómo los **Children** permiten flexibilidad estructural es clave para desarrollar aplicaciones modulares, reutilizables y eficientes.  
 
 Este conocimiento sienta las bases para el uso avanzado de **Context API**, **Custom Hooks** y **manejo global de estados** en React.
-
----
-
-<p align="center">
-  <a href="../../cuaderno.html" class="btn btn-primary" title="Ir al Cuaderno general" data-hardnav>📘 Volver al Cuaderno</a>
-</p>
-
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0F766E,100:0EA5E9&section=footer" />
