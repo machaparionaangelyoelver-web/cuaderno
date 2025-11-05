@@ -5,7 +5,7 @@
 ====================================================================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:0EA5E9,100:0F766E&text=📗%20Cuaderno%20Digital%20—%20Semana%2010%20(JSP%20%2B%20Tomcat%20%2B%20Evidencias)&fontAlign=50&fontAlignY=35&fontSize=34&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:0EA5E9,100:0F766E&text=📗%20Cuaderno%20Digital%20—%20Semana%2010%20&fontAlign=50&fontAlignY=35&fontSize=34&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <p align="center">
@@ -20,10 +20,22 @@
   <img src="https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/main/Semana10_imagenes/logo_maven.png" width="70" alt="Logo Maven" style="margin:5px;">
 </p>
 
+<!-- Encabezado animado (typing) + fallback de texto -->
 <p align="center">
-  <img alt="Desarrollo Backend — JSP + Tomcat" 
-       src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1200&color=14B8A6&center=true&vCenter=true&width=980&lines=Desarrollo+Backend+—+JSP+%2B+Tomcat+%2B+Evidencias;Programaci%C3%B3n+Web+Din%C3%A1mica+con+Java+EE+%7C+Apache+Tomcat" />
+  <img
+    alt="Macha Pariona Angel Yoelver — Curso y Tema"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=1000&color=0F766E&center=true&vCenter=true&width=880&lines=Macha%20Pariona%20Angel%20Yoelver;Curso%3A%20Desarrollo%20de%20Aplicaciones%20Web;Tema%3A%20JSP%20%2B%20Tomcat%20%2B%20Evidencias%20(Semana%2010)"
+  />
 </p>
+
+<!-- Fallback (si el SVG no carga) -->
+<p align="center" style="font-family: 'Segoe UI', Arial, sans-serif; color:#0F766E;">
+  <strong style="font-size:22px; display:block;">Macha Pariona Angel Yoelver</strong>
+  <span style="font-size:18px; display:block;">Curso: Desarrollo de Aplicaciones Web</span>
+  <span style="font-size:18px; display:block;">Tema: JSP + Tomcat + Evidencias (Semana 10)</span>
+</p>
+
+
 
 ---
 
