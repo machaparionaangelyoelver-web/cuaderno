@@ -14,24 +14,20 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/main/Semana11_imagenes/logo_spring.png" width="70" alt="Logo Spring Boot" style="margin:5px;">
-  <img src="https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/main/Semana11_imagenes/logo_java.png" width="70" alt="Logo Java" style="margin:5px;">
   <img src="https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/main/Semana11_imagenes/logo_mysql.png" width="70" alt="Logo MySQL" style="margin:5px;">
   <img src="https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/main/Semana11_imagenes/logo_swagger.png" width="70" alt="Logo Swagger" style="margin:5px;">
   <img src="https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/main/Semana11_imagenes/logo_postman.png" width="70" alt="Logo Postman" style="margin:5px;">
 </p>
 
+<!-- Encabezado animado (typing) + fallback de texto -->
 <p align="center">
   <img
-    alt="Macha Pariona Angel Yoelver — Curso y Tema"
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=1000&color=2563EB&center=true&vCenter=true&width=980&lines=Macha%20Pariona%20Angel%20Yoelver;Curso%3A%20Desarrollo%20de%20Aplicaciones%20Web;Tema%3A%20Intelligent%20CRUD%20Docentes%20(Spring%20Boot%20%2B%20MySQL)%20—%20Semana%2011"
+    alt="alumno: Macha Pariona Angel Yoelver — Curso y Tema"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=1000&color=2563EB&center=true&vCenter=true&width=980&lines=Macha%20Pariona%20Angel%20Yoelver;Curso%3A%20Desarrollo%20de%20Aplicaciones%20Web;Tema%3A%20Intelligent%20CRUD%20Docentes%20(Spring%20Boot%20%2B%20MySQL)%20%E2%80%94%20Semana%2011"
   />
 </p>
 
-<p align="center" style="font-family: 'Segoe UI', Arial, sans-serif; color:#2563EB;">
-  <strong style="font-size:22px; display:block;">Macha Pariona Angel Yoelver</strong>
-  <span style="font-size:18px; display:block;">Curso: Desarrollo de Aplicaciones Web</span>
-  <span style="font-size:18px; display:block;">Tema: Intelligent CRUD Docentes (Spring Boot + MySQL) — Semana 11</span>
-</p>
+
 
 ---
 
