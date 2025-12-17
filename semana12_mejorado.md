@@ -16,8 +16,8 @@
   <img src="https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/7fa4a9c04448511e1ca1aae80c2901fc3eedca56/semana12_imagenes/logo_php.png" width="70" alt="PHP" style="margin:5px;">
   <img src="https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/7fa4a9c04448511e1ca1aae80c2901fc3eedca56/semana12_imagenes/logo_mysql.png" width="70" alt="MySQL" style="margin:5px;">
   <img src="https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/7fa4a9c04448511e1ca1aae80c2901fc3eedca56/semana12_imagenes/logo_apache.png" width="70" alt="Apache" style="margin:5px;">
-  <img src="https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/7fa4a9c04448511e1ca1aae80c2901fc3eedca56/semana12_imagenes/logo_composer.png" width="70" alt="Composer" style="margin:5px;">
-  <img src="https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/7fa4a9c04448511e1ca1aae80c2901fc3eedca56/semana12_imagenes/logo_postman.png" width="70" alt="Postman" style="margin:5px;">
+  <img src="https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/7fa4a9c04448511e1ca1aae80c2901fc3eedca56/semana12_imagenes/logo_composer.png" width="70" alt="Composer" 
+style="margin:5px;">
   <img src="https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/7fa4a9c04448511e1ca1aae80c2901fc3eedca56/semana12_imagenes/logo_vscode.png" width="70" alt="VS Code" style="margin:5px;">
   <img src="https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/7fa4a9c04448511e1ca1aae80c2901fc3eedca56/semana12_imagenes/logo_intellij.png" width="70" alt="IntelliJ" style="margin:5px;">
   <img src="https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/7fa4a9c04448511e1ca1aae80c2901fc3eedca56/semana12_imagenes/logo_laravel.png" width="70" alt="Laravel (opcional)" style="margin:5px;">
@@ -38,7 +38,7 @@
 - **Curso:** Desarrollo de Aplicaciones Web  
 - **Semana:** 12  
 - **Tema:** Backend con PHP y MySQL (CRUD, validación, seguridad mínima y pruebas)  
-- **Fecha:** 14 de diciembre de 2025  
+- **Fecha:** 02 de diciembre de 2025  
 
 ---
 
@@ -235,49 +235,104 @@ if (!filter_var($email, FILTER_VALIDATE_EMAIL)) {
 
 # 10. Evidencias
 
-A continuación se muestran capturas que respaldan el trabajo realizado (entorno, versiones, configuración, BD, Postman, validación y resultados).
+En esta sección se presentan las evidencias que sustentan el desarrollo y funcionamiento del sistema implementado. Las capturas muestran el entorno de trabajo, la configuración del proyecto, la construcción de la base de datos, las pruebas realizadas mediante Postman, las validaciones aplicadas y los resultados finales obtenidos. Estas evidencias permiten verificar que el CRUD fue desarrollado y probado correctamente conforme a los objetivos planteados.
+
+---
 
 ## 10.1 Entorno y verificación
 
-**Evidencia 01 — Instalación y entorno activo**  
-<img src="https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/7fa4a9c04448511e1ca1aae80c2901fc3eedca56/semana12_imagenes/evid_01_instalacion_entorno.png" width="760" alt="Evidencia 01 - Instalación y entorno" />
+Antes de iniciar el desarrollo del sistema, se realizó la instalación y verificación del entorno de trabajo, asegurando que las herramientas necesarias se encuentren correctamente configuradas y operativas.
 
-**Evidencia 02 — Versiones de PHP y Composer**  
-<img src="https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/7fa4a9c04448511e1ca1aae80c2901fc3eedca56/semana12_imagenes/evid_02_versiones_php_composer.png" width="760" alt="Evidencia 02 - Versiones" />
+### Evidencia 01 — Instalación y entorno activo
+
+La siguiente imagen muestra la correcta instalación del entorno de desarrollo, confirmando que los servicios necesarios se encuentran activos para la ejecución del proyecto.
+
+<img src="https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/7fa4a9c04448511e1ca1aae80c2901fc3eedca56/semana12_imagenes/evid_01_instalacion_entorno.png" width="360" alt="Evidencia 01 - Instalación y entorno" />
+
+### Evidencia 02 — Versiones de PHP y Composer
+
+En la imagen se verifica que las versiones de PHP y Composer utilizadas son compatibles con el framework del proyecto, garantizando estabilidad y correcto funcionamiento.
+
+<img src="https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/7fa4a9c04448511e1ca1aae80c2901fc3eedca56/semana12_imagenes/evid_02_versiones_php_composer.png" width="360" alt="Evidencia 02 - Versiones" />
+
+---
 
 ## 10.2 Construcción del proyecto y configuración
 
-**Evidencia 03 — Creación del proyecto**  
-<img src="https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/7fa4a9c04448511e1ca1aae80c2901fc3eedca56/semana12_imagenes/evid_03_creacion_proyecto.png" width="760" alt="Evidencia 03 - Creación de proyecto" />
+En esta fase se evidencia la creación del proyecto y la configuración inicial del entorno, aspectos fundamentales para el desarrollo correcto del sistema.
 
-**Evidencia 04 — Configuración del entorno (.env o parámetros)**  
-<img src="https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/7fa4a9c04448511e1ca1aae80c2901fc3eedca56/semana12_imagenes/evid_04_env_config.png" width="760" alt="Evidencia 04 - Configuración" />
+### Evidencia 03 — Creación del proyecto
+
+La captura muestra el proceso de creación del proyecto mediante los comandos correspondientes, confirmando que la estructura base fue generada de forma adecuada.
+
+<img src="https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/7fa4a9c04448511e1ca1aae80c2901fc3eedca56/semana12_imagenes/evid_03_creacion_proyecto.png" width="360" alt="Evidencia 03 - Creación de proyecto" />
+
+### Evidencia 04 — Configuración del entorno (.env o parámetros)
+
+La imagen evidencia la correcta configuración del archivo de entorno, donde se definen parámetros como la conexión a la base de datos y variables necesarias para la ejecución del sistema.
+
+<img src="https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/7fa4a9c04448511e1ca1aae80c2901fc3eedca56/semana12_imagenes/evid_04_env_config.png" width="360" alt="Evidencia 04 - Configuración" />
+
+---
 
 ## 10.3 Base de datos
 
-**Evidencia 05 — Migraciones o creación de tabla en MySQL**  
-<img src="https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/7fa4a9c04448511e1ca1aae80c2901fc3eedca56/semana12_imagenes/evid_05_migraciones_bd.png" width="760" alt="Evidencia 05 - BD y tabla" />
+La base de datos constituye un componente esencial del sistema, ya que permite almacenar y gestionar la información de manera estructurada y segura.
+
+### Evidencia 05 — Migraciones o creación de tabla en MySQL
+
+La imagen muestra la creación de las tablas mediante migraciones o sentencias SQL, verificando que la estructura de la base de datos fue implementada correctamente.
+
+<img src="https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/7fa4a9c04448511e1ca1aae80c2901fc3eedca56/semana12_imagenes/evid_05_migraciones_bd.png" width="360" alt="Evidencia 05 - BD y tabla" />
+
+---
 
 ## 10.4 Pruebas con Postman
 
-**Evidencia 06 — Prueba GET (listar)**  
-<img src="https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/7fa4a9c04448511e1ca1aae80c2901fc3eedca56/semana12_imagenes/evid_06_postman_get.png" width="760" alt="Evidencia 06 - Postman GET" />
+Para validar el funcionamiento del sistema, se realizaron pruebas de los servicios REST utilizando la herramienta Postman.
 
-**Evidencia 07 — Pruebas POST, PUT y DELETE**  
-<img src="https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/7fa4a9c04448511e1ca1aae80c2901fc3eedca56/semana12_imagenes/evid_07_postman_post_put_delete.png" width="760" alt="Evidencia 07 - Postman CRUD" />
+### Evidencia 06 — Prueba GET (listar)
+
+La imagen evidencia la correcta ejecución del método GET, permitiendo listar los registros almacenados en la base de datos.
+
+<img src="https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/7fa4a9c04448511e1ca1aae80c2901fc3eedca56/semana12_imagenes/evid_06_postman_get.png" width="360" alt="Evidencia 06 - Postman GET" />
+
+### Evidencia 07 — Pruebas POST, PUT y DELETE
+
+La captura muestra las pruebas realizadas para crear, actualizar y eliminar registros, confirmando el correcto funcionamiento de todas las operaciones CRUD.
+
+<img src="https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/7fa4a9c04448511e1ca1aae80c2901fc3eedca56/semana12_imagenes/evid_07_postman_post_put_delete.png" width="360" alt="Evidencia 07 - Postman CRUD" />
+
+---
 
 ## 10.5 Validaciones y errores controlados
 
-**Evidencia 08 — Validaciones y manejo de errores**  
-<img src="https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/7fa4a9c04448511e1ca1aae80c2901fc3eedca56/semana12_imagenes/evid_08_validaciones_errores.png" width="760" alt="Evidencia 08 - Validaciones" />
+El sistema incorpora validaciones que permiten controlar errores y asegurar la integridad de los datos ingresados.
+
+### Evidencia 08 — Validaciones y manejo de errores
+
+Se evidencia el manejo adecuado de errores y mensajes de validación, lo cual contribuye a una mejor experiencia de usuario y mayor confiabilidad del sistema.
+
+<img src="https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/7fa4a9c04448511e1ca1aae80c2901fc3eedca56/semana12_imagenes/evid_08_validaciones_errores.png" width="360" alt="Evidencia 08 - Validaciones" />
+
+---
 
 ## 10.6 Organización y cierre
 
-**Evidencia 09 — Estructura del proyecto (organización)**  
-<img src="https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/7fa4a9c04448511e1ca1aae80c2901fc3eedca56/semana12_imagenes/evid_09_estructura_proyecto.png" width="760" alt="Evidencia 09 - Estructura del proyecto" />
+Finalmente, se presenta la organización del proyecto y los resultados obtenidos tras la implementación y pruebas del sistema.
 
-**Evidencia 10 — Resultados finales**  
-<img src="https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/7fa4a9c04448511e1ca1aae80c2901fc3eedca56/semana12_imagenes/evid_10_resultados_finales.png" width="760" alt="Evidencia 10 - Resultados finales" />
+### Evidencia 09 — Estructura del proyecto (organización)
+
+La imagen evidencia una estructura ordenada de carpetas y archivos, siguiendo buenas prácticas de desarrollo de software.
+
+<img src="https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/7fa4a9c04448511e1ca1aae80c2901fc3eedca56/semana12_imagenes/evid_09_estructura_proyecto.png" width="360" alt="Evidencia 09 - Estructura del proyecto" />
+
+### Evidencia 10 — Resultados finales
+
+La siguiente imagen muestra los resultados finales del sistema en ejecución, demostrando que el CRUD funciona correctamente y cumple con los objetivos establecidos.
+
+<img src="https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/7fa4a9c04448511e1ca1aae80c2901fc3eedca56/semana12_imagenes/evid_10_resultados_finales.png" width="360" alt="Evidencia 10 - Resultados finales" />
+
 
 ---
 
@@ -318,26 +373,4 @@ A continuación se muestran capturas que respaldan el trabajo realizado (entorno
 - Documentar la API con OpenAPI/Swagger (si se evoluciona a un framework).
 - Preparar despliegue en hosting o servidor (configuración de producción).
 
----
 
-## Anexo A — Plantilla de request para Postman
-
-### Crear docente (POST)
-```json
-{
-  "nombre": "Ana Pérez",
-  "email": "ana.perez@correo.com",
-  "facultad": "Ingeniería",
-  "estado": "activo"
-}
-```
-
-### Actualizar docente (PUT)
-```json
-{
-  "nombre": "Ana Pérez",
-  "email": "ana.perez@correo.com",
-  "facultad": "Ingeniería de Sistemas",
-  "estado": "activo"
-}
-```
