@@ -8,18 +8,19 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/c9ed1ec80a1f2e45637c926a689ba075ba20afb5/logos/logo_uncp.png" width="95" alt="Logo UNCP" style="margin:10px;">
-  <img src="https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/c9ed1ec80a1f2e45637c926a689ba075ba20afb5/logos/logo_fis.png" width="95" alt="Logo FIS" style="margin:10px;">
+  <img src="https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/c9ed1ec80a1f2e45637c926a689ba075ba20afb5/semana13_imagenes/logo_uncp.png" width="95" alt="Logo UNCP" style="margin:10px;">
+  <img src="https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/c9ed1ec80a1f2e45637c926a689ba075ba20afb5/semana13_imagenes/logo_fis.png" width="95" alt="Logo FIS" style="margin:10px;">
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/c9ed1ec80a1f2e45637c926a689ba075ba20afb5/logos/logo_react.png" width="72" alt="React" style="margin:6px;">
-  <img src="https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/c9ed1ec80a1f2e45637c926a689ba075ba20afb5/logos/logo_vite.png" width="72" alt="Vite" style="margin:6px;">
-  <img src="https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/c9ed1ec80a1f2e45637c926a689ba075ba20afb5/logos/logo_laravel.png" width="72" alt="Laravel" style="margin:6px;">
-  <img src="https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/c9ed1ec80a1f2e45637c926a689ba075ba20afb5/logos/logo_php.png" width="72" alt="PHP" style="margin:6px;">
-  <img src="https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/c9ed1ec80a1f2e45637c926a689ba075ba20afb5/logos/logo_mysql.png" width="72" alt="MySQL" style="margin:6px;">
-  <img src="https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/c9ed1ec80a1f2e45637c926a689ba075ba20afb5/logos/logo_movistar.png" width="72" alt="Movistar" style="margin:6px;">
+  <img src="https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/c9ed1ec80a1f2e45637c926a689ba075ba20afb5/semana13_imagenes/logo_react.png" width="72" alt="React" style="margin:6px;">
+  <img src="https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/c9ed1ec80a1f2e45637c926a689ba075ba20afb5/semana13_imagenes/logo_vite.png" width="72" alt="Vite" style="margin:6px;">
+  <img src="https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/c9ed1ec80a1f2e45637c926a689ba075ba20afb5/semana13_imagenes/logo_laravel.png" width="72" alt="Laravel" style="margin:6px;">
+  <img src="https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/c9ed1ec80a1f2e45637c926a689ba075ba20afb5/semana13_imagenes/logo_php.png" width="72" alt="PHP" style="margin:6px;">
+  <img src="https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/c9ed1ec80a1f2e45637c926a689ba075ba20afb5/semana13_imagenes/logo_mysql.png" width="72" alt="MySQL" style="margin:6px;">
+  <img src="https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/c9ed1ec80a1f2e45637c926a689ba075ba20afb5/semana13_imagenes/logo_movistar.png" width="72" alt="Movistar" style="margin:6px;">
 </p>
+
 
 <p align="center">
   <img
@@ -30,15 +31,14 @@
 
 ---
 
-# 🧩 Sistema CRUD de Empleados Movistar (React + Laravel + MySQL)
+# 🧩 semana 13 
 
 **Autor:** Angel Yoelver Macha  
 **Universidad:** Universidad Nacional del Centro del Perú (UNCP)  
 **Facultad:** Facultad de Ingeniería de Sistemas (FIS)  
-**Curso / Área:** Desarrollo Web  
+**Curso / Área:** Desarrollo de apliciones Web  
 **Semana:** 13  
-**Producto:** Aplicación Full Stack con arquitectura desacoplada (Frontend + API REST + BD)  
-**Tecnologías:** React + Vite · Laravel + PHP · MySQL  
+
 
 ---
 
@@ -368,52 +368,52 @@ https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/c
 #### Figura 10.1 — Entorno PHP y Composer  
 La evidencia confirma que el entorno backend está correctamente preparado. Composer permite instalar Laravel y sus dependencias; PHP ejecuta el servidor y comandos artisan.
 
-<img src="https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/c9ed1ec80a1f2e45637c926a689ba075ba20afb5/semana13_imagenes/evid_01_entorno_php_composer.png" width="760" alt="Figura 10.1" />
+<img src="https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/c9ed1ec80a1f2e45637c926a689ba075ba20afb5/semana13_imagenes/evid_01_entorno_php_composer.png" width="400" alt="Figura 10.1" />
 
 #### Figura 10.2 — Node, NPM y Vite  
 Evidencia del entorno frontend. NPM administra dependencias de React y Vite levanta el servidor de desarrollo con recarga automática.
 
-<img src="https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/c9ed1ec80a1f2e45637c926a689ba075ba20afb5/semana13_imagenes/evid_02_npm_node_vite.png" width="760" alt="Figura 10.2" />
+<img src="https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/c9ed1ec80a1f2e45637c926a689ba075ba20afb5/semana13_imagenes/evid_02_npm_node_vite.png" width="400" alt="Figura 10.2" />
 
 #### Figura 10.3 — Configuración `.env` y conexión MySQL  
 Se valida la configuración de conexión a BD. Esto es crítico: si el `.env` es incorrecto, migraciones y operaciones CRUD fallarán.
 
-<img src="https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/c9ed1ec80a1f2e45637c926a689ba075ba20afb5/semana13_imagenes/evid_03_config_env_db.png" width="760" alt="Figura 10.3" />
+<img src="https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/c9ed1ec80a1f2e45637c926a689ba075ba20afb5/semana13_imagenes/evid_03_config_env_db.png" width="400" alt="Figura 10.3" />
 
 #### Figura 10.4 — Migraciones ejecutadas  
 Confirma que la estructura de tablas está lista para almacenar empleados. Migraciones exitosas implican que Laravel y MySQL están bien conectados.
 
-<img src="https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/c9ed1ec80a1f2e45637c926a689ba075ba20afb5/semana13_imagenes/evid_04_migrate_ok.png" width="760" alt="Figura 10.4" />
+<img src="https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/c9ed1ec80a1f2e45637c926a689ba075ba20afb5/semana13_imagenes/evid_04_migrate_ok.png" width="400" alt="Figura 10.4" />
 
 #### Figura 10.5 — Rutas del API  
 Verifica que el CRUD está expuesto por endpoints que React puede consumir.
 
-<img src="https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/c9ed1ec80a1f2e45637c926a689ba075ba20afb5/semana13_imagenes/evid_05_routes_api.png" width="760" alt="Figura 10.5" />
+<img src="https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/c9ed1ec80a1f2e45637c926a689ba075ba20afb5/semana13_imagenes/evid_05_routes_api.png" width="400" alt="Figura 10.5" />
 
 #### Figura 10.6 — Frontend activo con Vite  
 Confirma que la interfaz está disponible en el navegador y lista para consumir la API.
 
-<img src="https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/c9ed1ec80a1f2e45637c926a689ba075ba20afb5/semana13_imagenes/evid_06_front_npm_run_dev.png" width="760" alt="Figura 10.6" />
+<img src="https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/c9ed1ec80a1f2e45637c926a689ba075ba20afb5/semana13_imagenes/evid_06_front_npm_run_dev.png" width="400" alt="Figura 10.6" />
 
 #### Figura 10.7 — Backend activo con Artisan  
 Muestra el servidor Laravel ejecutándose. Esto habilita que React haga peticiones.
 
-<img src="https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/c9ed1ec80a1f2e45637c926a689ba075ba20afb5/semana13_imagenes/evid_07_back_php_artisan_serve.png" width="760" alt="Figura 10.7" />
+<img src="https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/c9ed1ec80a1f2e45637c926a689ba075ba20afb5/semana13_imagenes/evid_07_back_php_artisan_serve.png" width="400" alt="Figura 10.7" />
 
 #### Figura 10.8 — CRUD: Listado  
 Demuestra el Read: el frontend consulta el backend y renderiza datos sin recarga.
 
-<img src="https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/c9ed1ec80a1f2e45637c926a689ba075ba20afb5/semana13_imagenes/evid_08_crud_listado.png" width="760" alt="Figura 10.8" />
+<img src="https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/c9ed1ec80a1f2e45637c926a689ba075ba20afb5/semana13_imagenes/evid_08_crud_listado.png" width="400" alt="Figura 10.8" />
 
 #### Figura 10.9 — CRUD: Crear/Editar  
 Demuestra Create/Update: datos enviados, validados, y guardados/actualizados en BD.
 
-<img src="https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/c9ed1ec80a1f2e45637c926a689ba075ba20afb5/semana13_imagenes/evid_09_crud_crear_editar.png" width="760" alt="Figura 10.9" />
+<img src="https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/c9ed1ec80a1f2e45637c926a689ba075ba20afb5/semana13_imagenes/evid_09_crud_crear_editar.png" width="400" alt="Figura 10.9" />
 
 #### Figura 10.10 — CRUD: Eliminar  
 Demuestra Delete: eliminación confirmada por API y actualización inmediata de la interfaz.
 
-<img src="https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/c9ed1ec80a1f2e45637c926a689ba075ba20afb5/semana13_imagenes/evid_10_crud_eliminar_resultado.png" width="760" alt="Figura 10.10" />
+<img src="https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/c9ed1ec80a1f2e45637c926a689ba075ba20afb5/semana13_imagenes/evid_10_crud_eliminar_resultado.png" width="400" alt="Figura 10.10" />
 
 ---
 
@@ -473,17 +473,7 @@ Demuestra Delete: eliminación confirmada por API y actualización inmediata de 
 | Auditoría | Historial de cambios | Trazabilidad |
 | Deploy | Publicar en Render/VPS | Acceso remoto real |
 
----
 
-## 15. Anexos
-
-### 15.1 Enlace de ejemplo (referencia)
-- Imagen (ejemplo):  
-  https://github.com/machaparionaangelyoelver-web/fotosdecuaderno/blob/c9ed1ec80a1f2e45637c926a689ba075ba20afb5/semana13_imagenes/evid_02_npm_node_vite.png
-
-### 15.2 Base de imágenes (RAW)
-- Para incrustar sin problemas:  
-  `https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/c9ed1ec80a1f2e45637c926a689ba075ba20afb5/semana13_imagenes/`
 
 ---
 
