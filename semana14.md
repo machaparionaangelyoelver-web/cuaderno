@@ -32,25 +32,6 @@ Semana 14 · Backend con Python y Flask (Apache, WSGI y MySQL)
 
 ---
 
-Enlaces principales
-------------------
-
-<table>
-  <tr>
-    <td><b>Repositorio GitHub (perfil)</b></td>
-    <td>https://github.com/machaparionaangelyoelver-web</td>
-  </tr>
-  <tr>
-    <td><b>Carpeta de evidencias y logos</b></td>
-    <td>https://github.com/machaparionaangelyoelver-web/fotosdecuaderno/tree/126ed8fb4a59266ecf5a75d9d57bb83067bd2890/semana14_imagenes</td>
-  </tr>
-  <tr>
-    <td><b>Ejemplo de evidencia</b></td>
-    <td>https://raw.githubusercontent.com/machaparionaangelyoelver-web/fotosdecuaderno/126ed8fb4a59266ecf5a75d9d57bb83067bd2890/semana14_imagenes/evid_01_apache_lounge_it_works.png</td>
-  </tr>
-</table>
-
----
 
 Ficha técnica
 ------------
@@ -532,11 +513,11 @@ Contacto
 <table>
   <tr>
     <td width="240"><b>Estudiante</b></td>
-    <td>Leonel Macha Pariona</td>
+    <td>Angel Yoelver  Macha Pariona</td>
   </tr>
   <tr>
     <td><b>Correo personal</b></td>
-    <td>leonelmacha19@gmail.com</td>
+    <td> machaparionaangelyoelver@gmail.com</td>
   </tr>
   <tr>
     <td><b>Correo institucional</b></td>
