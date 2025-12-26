@@ -54,7 +54,7 @@ SISTEMAS INTELIGENTES CON PYTHON • REGLAS IF THEN • LÓGICA DIFUSA • EVIDE
   </tr>
   <tr>
     <td><b>Contacto</b></td>
-    <td><a href="mailto:leonelmacha19@gmail.com">leonelmacha19@gmail.com</a></td>
+    <td><a href="mailto:leonelmacha19@gmail.com">machaparionaangelyoelver@gmail.com</a></td>
   </tr>
 </table>
 
@@ -356,29 +356,7 @@ explicación: etiquetas con mayor influencia
   <li>Documentar entradas, reglas y salidas mejora trazabilidad y permite ajustes futuros del sistema.</li>
 </ul>
 
----
 
-<h2>🗂️ Estructura recomendada del proyecto</h2>
-
-```text
-cuaderno_digital/
-  ├─ semana15/
-  │  ├─ index.html
-  │  ├─ css/
-  │  │  └─ styles.css
-  │  ├─ js/
-  │  │  └─ app.js
-  │  └─ semana15_imagenes/
-  │     ├─ evid_01.png ... evid_12.png
-  │     ├─ logo_python.png
-  │     ├─ logo_flask.png
-  │     ├─ logo_mysql.png
-  │     ├─ logo_apache.png
-  │     ├─ logo_django.png
-  │     ├─ logo_uncp.png
-  │     └─ logo_fis.png
-  └─ cuaderno.html
-```
 
 ---
 
@@ -391,7 +369,7 @@ cuaderno_digital/
   </tr>
   <tr>
     <td><b>Correo</b></td>
-    <td><a href="mailto:leonelmacha19@gmail.com">leonelmacha19@gmail.com</a></td>
+    <td><a href="mailto:leonelmacha19@gmail.com">machaparionaangelyoelver@gmail.com</a></td>
   </tr>
   <tr>
     <td><b>GitHub</b></td>
